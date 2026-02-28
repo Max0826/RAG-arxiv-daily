@@ -22,5 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "RAG Security & Attacks": 
+        filters: ["Retrieval-Augmented Generation security", "RAG attack", "Prompt Injection", "Data Poisoning"]
     "RAG": 
         filters: ["RAG", "Attack"]
+        
