@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Max0826"
-repo_name: "cv-arxiv-daily"
+repo_name: "RAG-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -12,9 +12,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/rag-arxiv-daily.json'
+json_gitpage_path: './docs/rag-arxiv-daily-web.json'
+json_wechat_path: './docs/rag-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "RAG-MIA & Privacy": 
-        filters: ["RAG Membership Inference", "Membership Inference Attack RAG", "MIA Retrieval-Augmented Generation", "Retrieval-Augmented Generation Privacy"]
+        filters: ["RAG Membership Inference", "Membership Inference Attack RAG", "Retrieval-Augmented Generation", "Retrieval-Augmented Generation Privacy"]
     "RAG-Stealing & Extraction":
-        filters: ["RAG stealing", "RAG extraction attack", "Knowledge base stealing", "Retrieval database extraction", "RAG reconstruction attack"]
+        filters: ["RAG stealing", "RAG extraction attack", "Knowledge base stealing", "Retrieval database extraction", "reconstruction attack"]
         
