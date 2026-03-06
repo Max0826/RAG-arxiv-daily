@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context**|Xin Teng et.al.|[2603.05353](http://arxiv.org/abs/2603.05353)|null|
+|**2026-03-05**|**Core-based Hierarchies for Efficient GraphRAG**|Jakir Hossain et.al.|[2603.05207](http://arxiv.org/abs/2603.05207)|null|
+|**2026-03-05**|**MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus**|Zheng Li et.al.|[2603.05129](http://arxiv.org/abs/2603.05129)|null|
+|**2026-03-05**|**Retrieval-Augmented Generation with Covariate Time Series**|Kenny Ye Liang et.al.|[2603.04951](http://arxiv.org/abs/2603.04951)|null|
+|**2026-03-05**|**Detecting RAG Advertisements Across Advertising Styles**|Sebastian Heineking et.al.|[2603.04925](http://arxiv.org/abs/2603.04925)|null|
+|**2026-03-05**|**MOOSEnger -- a Domain-Specific AI Agent for the MOOSE Ecosystem**|Mengnan Li et.al.|[2603.04756](http://arxiv.org/abs/2603.04756)|null|
+|**2026-03-04**|**Neuro-Symbolic Financial Reasoning via Deterministic Fact Ledgers and Adversarial Low-Latency Hallucination Detector**|Pedram Agand et.al.|[2603.04663](http://arxiv.org/abs/2603.04663)|null|
+|**2026-03-04**|**Stan: An LLM-based thermodynamics course assistant**|Eric M. Furst et.al.|[2603.04657](http://arxiv.org/abs/2603.04657)|null|
+|**2026-03-04**|**Coordinated Semantic Alignment and Evidence Constraints for Retrieval-Augmented Generation with Large Language Models**|Xin Chen et.al.|[2603.04647](http://arxiv.org/abs/2603.04647)|null|
+|**2026-03-04**|**SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D**|Zirui Wang et.al.|[2603.04614](http://arxiv.org/abs/2603.04614)|null|
 |**2026-03-04**|**Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG**|Martin Asenov et.al.|[2603.04238](http://arxiv.org/abs/2603.04238)|null|
 |**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
 |**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
@@ -34,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Balancing Privacy-Quality-Efficiency in Federated Learning through Round-Based Interleaving of Protection Techniques**|Yenan Wang et.al.|[2603.05158](http://arxiv.org/abs/2603.05158)|null|
 |**2026-03-04**|**PTOPOFL: Privacy-Preserving Personalised Federated Learning via Persistent Homology**|Kelly L Vomo-Donfack et.al.|[2603.04323](http://arxiv.org/abs/2603.04323)|null|
 |**2026-02-22**|**Learning to Detect Language Model Training Data via Active Reconstruction**|Junjie Oscar Yin et.al.|[2602.19020](http://arxiv.org/abs/2602.19020)|null|
 |**2026-02-19**|**Guarding the Middle: Protecting Intermediate Representations in Federated Split Learning**|Obaidullah Zaland et.al.|[2602.17614](http://arxiv.org/abs/2602.17614)|null|
@@ -45,6 +56,21 @@ layout: default
 |**2026-01-30**|**A Real-Time Privacy-Preserving Behavior Recognition System via Edge-Cloud Collaboration**|Huan Song et.al.|[2601.22938](http://arxiv.org/abs/2601.22938)|null|
 |**2026-02-05**|**Connect the Dots: Knowledge Graph-Guided Crawler Attack on Retrieval-Augmented Generation Systems**|Mengyu Yao et.al.|[2601.15678](http://arxiv.org/abs/2601.15678)|null|
 |**2026-01-21**|**Auditing Language Model Unlearning via Information Decomposition**|Anmol Goel et.al.|[2601.15111](http://arxiv.org/abs/2601.15111)|null|
+
+## RAG-Membership Inference
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Training Dynamics-Aware Multi-Factor Curriculum Learning for Target Speaker Extraction**|Yun Liu et.al.|[2603.04943](http://arxiv.org/abs/2603.04943)|null|
+|**2026-03-05**|**From Unfamiliar to Familiar: Detecting Pre-training Data via Gradient Deviations in Large Language Models**|Ruiqi Zhang et.al.|[2603.04828](http://arxiv.org/abs/2603.04828)|null|
+|**2026-03-04**|**Transformer-Based Multipath Congestion Control: A Decoupled Approach for Wireless Uplinks**|Zongyuan Zhang et.al.|[2603.04550](http://arxiv.org/abs/2603.04550)|null|
+|**2026-03-04**|**Distributed optimization of Lindblad equations for large-scale cavity QED systems**|Hui-hui Miao et.al.|[2603.04187](http://arxiv.org/abs/2603.04187)|null|
+|**2026-03-04**|**Precise measurement of the form factors in $D^0\rightarrow K^*(892)^-\ell^+ν_{\ell}$ and observation of $D^0\rightarrow K_2^*(1430)^-\ell^+ν_{\ell}$**|BESIII Collaboration et.al.|[2603.04136](http://arxiv.org/abs/2603.04136)|null|
+|**2026-03-04**|**Why Do Unlearnable Examples Work: A Novel Perspective of Mutual Information**|Yifan Zhu et.al.|[2603.03725](http://arxiv.org/abs/2603.03725)|null|
+|**2026-03-03**|**Search for a massless particle beyond the Standard Model in the $Ξ^0\toΛ+ \text{invisible}$ decay**|BESIII Collaboration et.al.|[2603.03199](http://arxiv.org/abs/2603.03199)|null|
+|**2026-03-03**|**The Household Impact of Generative AI: Evidence from Internet Browsing Behavior**|Michael Blank et.al.|[2603.03144](http://arxiv.org/abs/2603.03144)|null|
+|**2026-03-03**|**PrivMedChat: End-to-End Differentially Private RLHF for Medical Dialogue Systems**|Sudip Bhujel et.al.|[2603.03054](http://arxiv.org/abs/2603.03054)|null|
+|**2026-03-03**|**Step-Level Sparse Autoencoder for Reasoning Process Interpretation**|Xuan Yang et.al.|[2603.03031](http://arxiv.org/abs/2603.03031)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
