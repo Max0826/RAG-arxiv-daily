@@ -26,4 +26,6 @@ keywords:
         filters: ["RAG Membership Inference", "Membership Inference Attack RAG", "Retrieval-Augmented Generation", "Retrieval-Augmented Generation Privacy"]
     "RAG-Stealing":
         filters: ["RAG stealing", "RAG extraction attack", "Knowledge base stealing", "Retrieval database extraction", "reconstruction attack"]
+    "RAG-Membership Inference": 
+        filters: ["Membership Inference", "MIA", "Retrieval-Augmented Generation Privacy", "Retrieval Database Privacy"]
         
