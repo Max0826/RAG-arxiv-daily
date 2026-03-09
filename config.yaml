@@ -22,13 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "RAG-MIA": 
-        filters: ["RAG Membership Inference", "Membership Inference Attack RAG", "Retrieval-Augmented Generation", "Retrieval-Augmented Generation Privacy"]
-    "RAG-Stealing":
-        filters: ["RAG stealing", "RAG extraction attack", "Knowledge base stealing", "Retrieval database extraction", "reconstruction attack"]
     "RAG-Membership Inference": 
-        filters: ["Membership Inference", "MIA", "Retrieval-Augmented Generation Privacy", "Retrieval Database Privacy"]
-    "RAG-Membership Inference-1": 
         filters: ["Membership Inference Attack on RAG",
         "Membership Inference Attack against RAG",
         "Membership Inference for RAG",
@@ -36,34 +30,3 @@ keywords:
         "MIA on RAG",
         "MIA against RAG",
         "Privacy Leakage in RAG" ]
-    "RAG-MIA-1": 
-        filters: [
-        "Membership Inference Attack on RAG",
-        "Membership Inference Attack against RAG",
-        "Membership Inference for RAG",
-        "Membership Inference on RAG",
-        "MIA on RAG",
-        "MIA against RAG",
-        "Privacy Leakage in RAG",
-        "RAG-leaks",
-        "BudgetLeak",
-        "SeqMIA"
-    ]
-    "RAG-MIA-2": 
-        filters: [
-        "Membership Inference on RAG",
-        "Membership Inference in RAG",
-        "Membership Inference against RAG",
-        "RAG Membership Inference",
-        "Membership Inference for Retrieval-Augmented Generation",
-        "chunk stealing",
-        "overlapping inference attack",
-        "RAG-leaks",
-        "BudgetLeak",
-        "SeqMIA",
-        "DCMI",
-        "Differential Calibration Membership Inference",
-        "Retrieval Database Privacy",
-        "Privacy of Retrieval Data"
-    ]
-        
