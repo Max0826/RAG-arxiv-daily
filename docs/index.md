@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG-MIA
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Parametric Knowledge and Retrieval Behavior in RAG Fine-Tuning for Electronic Design Automation**|Julian Oestreich et.al.|[2603.23047](http://arxiv.org/abs/2603.23047)|null|
 |**2026-02-03**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim et.al.|[2602.01757](http://arxiv.org/abs/2602.01757)|null|
 |**2026-01-19**|**Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?**|Laura Dietz et.al.|[2601.13227](http://arxiv.org/abs/2601.13227)|null|
 |**2025-12-31**|**PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI**|Srija Mukhopadhyay et.al.|[2512.24848](http://arxiv.org/abs/2512.24848)|null|
