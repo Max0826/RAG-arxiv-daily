@@ -1,4 +1,4 @@
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 |**2026-03-24**|**Parametric Knowledge and Retrieval Behavior in RAG Fine-Tuning for Electronic Design Automation**|Julian Oestreich et.al.|[2603.23047](http://arxiv.org/abs/2603.23047)|null|
 |**2026-02-03**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim et.al.|[2602.01757](http://arxiv.org/abs/2602.01757)|null|
-|**2026-01-19**|**Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?**|Laura Dietz et.al.|[2601.13227](http://arxiv.org/abs/2601.13227)|null|
+|**2026-03-27**|**Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?**|Laura Dietz et.al.|[2601.13227](http://arxiv.org/abs/2601.13227)|null|
 |**2025-12-31**|**PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI**|Srija Mukhopadhyay et.al.|[2512.24848](http://arxiv.org/abs/2512.24848)|null|
 |**2025-12-23**|**ARBITER: AI-Driven Filtering for Role-Based Access Control**|Michele Lorenzo et.al.|[2512.20535](http://arxiv.org/abs/2512.20535)|null|
 |**2025-11-15**|**BudgetLeak: Membership Inference Attacks on RAG Systems via the Generation Budget Side Channel**|Hao Li et.al.|[2511.12043](http://arxiv.org/abs/2511.12043)|null|
@@ -34,7 +34,7 @@
 |**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
 |**2024-12-29**|**Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases**|Christian Di Maio et.al.|[2412.18295](http://arxiv.org/abs/2412.18295)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
