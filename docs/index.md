@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
-## RAG-MIA
+## RAG-Leaks
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
