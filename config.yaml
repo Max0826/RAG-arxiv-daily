@@ -3,7 +3,7 @@ repo_name: "RAG-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 20
+max_results: 40
 
 publish_readme: True
 publish_gitpage: True
@@ -20,16 +20,18 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "RAG-Leaks": 
+    "Membership Inference Attack":
         filters: [
-            "Membership Inference Attack on RAG",
-            "Membership Inference Attack against RAG",
-            "Membership Inference for RAG",
-            "Membership Inference on RAG",
-            "MIA on RAG",
-            "MIA against RAG",
-            "Privacy Leakage in RAG",
-            "RAG-leaks",
-            "BudgetLeak",
-            "SeqMIA"
+            "Membership Inference Attack",
+            "Membership Inference Attacks",
+            "Membership Inference"
+    ]
+    "Side-Channel Attack":
+        filters: [
+            "Side-Channel Attack",
+            "Side Channel Attack",
+            "Side-Channel Attacks",
+            "Cache Side-Channel",
+            "Timing Side-Channel",
+            "Power Side-Channel"
     ]

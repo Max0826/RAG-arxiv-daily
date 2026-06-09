@@ -1,44 +1,107 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#rag-leaks>RAG-Leaks</a></li>
+    <li><a href=#membership-inference-attack>Membership Inference Attack</a></li>
+    <li><a href=#side-channel-attack>Side-Channel Attack</a></li>
   </ol>
 </details>
 
-## RAG-Leaks
+## Membership Inference Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-01**|**E-MIA: Exam-Style Black-Box Membership Inference Attacks against RAG Systems**|Zelin Guan et.al.|[2605.00955](http://arxiv.org/abs/2605.00955)|null|
-|**2026-04-16**|**Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems**|Charafeddine Mouzouni et.al.|[2604.11623](http://arxiv.org/abs/2604.11623)|null|
-|**2026-04-10**|**ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying**|Xingyu Lyu et.al.|[2604.09747](http://arxiv.org/abs/2604.09747)|null|
-|**2026-03-24**|**Parametric Knowledge and Retrieval Behavior in RAG Fine-Tuning for Electronic Design Automation**|Julian Oestreich et.al.|[2603.23047](http://arxiv.org/abs/2603.23047)|null|
-|**2026-02-03**|**Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings**|Doohyun Kim et.al.|[2602.01757](http://arxiv.org/abs/2602.01757)|null|
-|**2026-05-05**|**Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks**|Ali Al-Lawati et.al.|[2601.17644](http://arxiv.org/abs/2601.17644)|null|
-|**2026-03-27**|**Insider Knowledge: How Much Can RAG Systems Gain from Evaluation Secrets?**|Laura Dietz et.al.|[2601.13227](http://arxiv.org/abs/2601.13227)|null|
-|**2025-12-31**|**PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI**|Srija Mukhopadhyay et.al.|[2512.24848](http://arxiv.org/abs/2512.24848)|null|
-|**2025-12-23**|**ARBITER: AI-Driven Filtering for Role-Based Access Control**|Michele Lorenzo et.al.|[2512.20535](http://arxiv.org/abs/2512.20535)|null|
-|**2025-11-15**|**BudgetLeak: Membership Inference Attacks on RAG Systems via the Generation Budget Side Channel**|Hao Li et.al.|[2511.12043](http://arxiv.org/abs/2511.12043)|null|
-|**2025-11-10**|**Private-RAG: Answering Multiple Queries with LLMs while Keeping Your Data Private**|Ruihan Wu et.al.|[2511.07637](http://arxiv.org/abs/2511.07637)|null|
-|**2025-12-10**|**Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics**|Maojia Song et.al.|[2510.05137](http://arxiv.org/abs/2510.05137)|null|
-|**2025-09-30**|**DeepCodeSeek: Real-Time API Retrieval for Context-Aware Code Generation**|Esakkivel Esakkiraja et.al.|[2509.25716](http://arxiv.org/abs/2509.25716)|null|
-|**2025-09-22**|**Design and Implementation of a Secure RAG-Enhanced AI Chatbot for Smart Tourism Customer Service: Defending Against Prompt Injection Attacks -- A Case Study of Hsinchu, Taiwan**|Yu-Kai Shih et.al.|[2509.21367](http://arxiv.org/abs/2509.21367)|null|
-|**2025-09-24**|**RAG Security and Privacy: Formalizing the Threat Model and Attack Surface**|Atousa Arzanipour et.al.|[2509.20324](http://arxiv.org/abs/2509.20324)|null|
-|**2025-09-18**|**Enterprise AI Must Enforce Participant-Aware Access Control**|Shashank Shreedhar Bhatt et.al.|[2509.14608](http://arxiv.org/abs/2509.14608)|null|
-|**2025-09-07**|**DCMI: A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation**|Xinyu Gao et.al.|[2509.06026](http://arxiv.org/abs/2509.06026)|null|
-|**2025-09-13**|**ISACL: Internal State Analyzer for Copyrighted Training Data Leakage**|Guangwei Zhang et.al.|[2508.17767](http://arxiv.org/abs/2508.17767)|null|
-|**2025-08-24**|**Exposing Privacy Risks in Graph Retrieval-Augmented Generation**|Jiale Liu et.al.|[2508.17222](http://arxiv.org/abs/2508.17222)|null|
-|**2025-08-05**|**Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation**|Haoran Wang et.al.|[2508.03098](http://arxiv.org/abs/2508.03098)|null|
-|**2025-07-28**|**Enhancing Project-Specific Code Completion by Inferring Internal API Information**|Le Deng et.al.|[2507.20888](http://arxiv.org/abs/2507.20888)|null|
-|**2025-06-09**|**MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems**|Peiru Yang et.al.|[2506.07399](http://arxiv.org/abs/2506.07399)|null|
-|**2025-09-30**|**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**|Yuhao Wang et.al.|[2505.15420](http://arxiv.org/abs/2505.15420)|null|
-|**2025-04-16**|**Efficient Distributed Retrieval-Augmented Generation for Enhancing Language Model Performance**|Shangyu Liu et.al.|[2504.11197](http://arxiv.org/abs/2504.11197)|null|
-|**2024-12-29**|**Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases**|Christian Di Maio et.al.|[2412.18295](http://arxiv.org/abs/2412.18295)|null|
+|**2026-06-08**|**On Choosing the $μ$ Parameter in Gaussian Differential Privacy**|Bogdan Kulynych et.al.|[2606.09582](http://arxiv.org/abs/2606.09582)|null|
+|**2026-06-08**|**Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models**|Bartłomiej Marek et.al.|[2606.09401](http://arxiv.org/abs/2606.09401)|null|
+|**2026-06-08**|**Pretrained, Frozen, Still Leaking: Auditing Cross-Encoder Attribute Transfer in EEG Foundation Models**|Jianwei Tai et.al.|[2606.09189](http://arxiv.org/abs/2606.09189)|null|
+|**2026-06-06**|**SoK: Reconstruction Attacks on Synthetic Tabular Data (Insights from Winning the NIST CRC)**|Steven Golob et.al.|[2606.08372](http://arxiv.org/abs/2606.08372)|null|
+|**2026-06-06**|**Causal Unlearning in Collaborative Optimization: Exact and Approximate Influence Reversal under Adversarial Contributions**|Ali Mahdavi et.al.|[2605.20341](http://arxiv.org/abs/2605.20341)|null|
+|**2026-06-05**|**Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path**|Thomas Sesmat et.al.|[2606.07271](http://arxiv.org/abs/2606.07271)|null|
+|**2026-06-05**|**Auditing Training Data in Domain-adapted LLMs: LoRA-MINT**|Gonzalo Mancera et.al.|[2606.06946](http://arxiv.org/abs/2606.06946)|null|
+|**2026-06-04**|**Quantifying the Privacy of Counterfactuals by Leveraging Membership Inference Attacks Against Synthetic Data**|Maryam Babaei et.al.|[2606.06334](http://arxiv.org/abs/2606.06334)|null|
+|**2026-06-04**|**Detectability in Diversity: Improved Canary Crafting for Privacy Auditing in One Run**|Mathieu Dagréou et.al.|[2605.27292](http://arxiv.org/abs/2605.27292)|null|
+|**2026-06-02**|**Bayesian Membership Privacy for Graph Neural Networks**|Sinan Yıldırım et.al.|[2606.04069](http://arxiv.org/abs/2606.04069)|null|
+|**2026-06-02**|**PURGE: Projected Unlearning via Retain-Guided Erasure**|Vedant Jawandhia et.al.|[2606.03808](http://arxiv.org/abs/2606.03808)|null|
+|**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
+|**2026-06-02**|**Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data**|Ahmed Mehdi Inane et.al.|[2605.11170](http://arxiv.org/abs/2605.11170)|null|
+|**2026-05-31**|**Differentially Private Datastore Generation for Retrieval-Augmented Inference**|Abdelrahman Abouelenein et.al.|[2606.01413](http://arxiv.org/abs/2606.01413)|null|
+|**2026-05-31**|**RULER: Representation-Level Verification of Machine Unlearning**|Georgina Cosma et.al.|[2605.27569](http://arxiv.org/abs/2605.27569)|null|
+|**2026-05-31**|**Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment**|Nguyen Linh Bao Nguyen et.al.|[2605.24312](http://arxiv.org/abs/2605.24312)|null|
+|**2026-05-31**|**Auditing Privacy in Multi-Tenant RAG under Account Collusion**|Florian A. D. Burnat et.al.|[2605.19847](http://arxiv.org/abs/2605.19847)|null|
+|**2026-05-28**|**idSCD: Identifying Training Datasets through Semantic Correlation Descriptors**|Andrada Gobeaja et.al.|[2605.30462](http://arxiv.org/abs/2605.30462)|null|
+|**2026-05-28**|**A Bayesian Approach to Membership Inference for Statistical Release**|Lisa Oakley et.al.|[2605.30203](http://arxiv.org/abs/2605.30203)|null|
+|**2026-05-28**|**FPLIER: Federated Pathway-Level Information Extractor**|Daniele Malpetti et.al.|[2605.29587](http://arxiv.org/abs/2605.29587)|null|
+|**2026-05-28**|**A Full-Pipeline Framework for Evaluating Membership Inference Attacks in Machine Learning**|Ding Chen et.al.|[2605.29454](http://arxiv.org/abs/2605.29454)|null|
+|**2026-05-28**|**Auditing Training Data in Generative Music Models via Black-Box Membership Inference**|Yi Chen Liu et.al.|[2605.29202](http://arxiv.org/abs/2605.29202)|null|
+|**2026-05-28**|**ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows**|Alvaro Lopez Pellicer et.al.|[2605.14113](http://arxiv.org/abs/2605.14113)|null|
+|**2026-05-27**|**MRMMIA: Membership Inference Attacks on Memory in Chat Agents**|Kai Chen et.al.|[2605.27825](http://arxiv.org/abs/2605.27825)|null|
+|**2026-05-26**|**Black-box Membership Inference Attacks on the Pre-training Data of Image-generation Models**|Tao Qi et.al.|[2605.27020](http://arxiv.org/abs/2605.27020)|null|
+|**2026-05-25**|**On Reliability of Efficient Membership Inference Vulnerability Evaluation**|Joonas Jälkö et.al.|[2605.25819](http://arxiv.org/abs/2605.25819)|null|
+|**2026-05-24**|**Spiking the training data to correct for test set contamination**|Johnny Tian-Zheng Wei et.al.|[2605.24818](http://arxiv.org/abs/2605.24818)|null|
+|**2026-05-23**|**Batch Normalization Amplifies Memorization and Privacy Risks**|Ngoc Phu Doan et.al.|[2605.24420](http://arxiv.org/abs/2605.24420)|null|
+|**2026-05-22**|**AI Security Research Should Better Incentivize Defense Research**|Youqian Zhang et.al.|[2605.23448](http://arxiv.org/abs/2605.23448)|null|
+|**2026-05-22**|**Boundary-targeted Membership Inference Attacks on Safety Classifiers**|Anthony Hughes et.al.|[2605.22373](http://arxiv.org/abs/2605.22373)|null|
+|**2026-05-21**|**Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications**|Ziyi Tong et.al.|[2605.26133](http://arxiv.org/abs/2605.26133)|null|
+|**2026-05-19**|**Membership Inference Attacks on Discrete Diffusion Language Models**|Shailesh Kasivelrajan et.al.|[2605.16445](http://arxiv.org/abs/2605.16445)|null|
+|**2026-05-18**|**Subtle Injection for Ground-truth Inference of LLM Training Data**|Abraham Itzhak Weinberg et.al.|[2606.06502](http://arxiv.org/abs/2606.06502)|null|
+|**2026-05-17**|**The Silent Brush: Evaluating Artistic Style Leakage in AI Art Generation**|Ninad Joshi et.al.|[2605.17500](http://arxiv.org/abs/2605.17500)|null|
+|**2026-05-17**|**Single-Sample Black-Box Membership Inference Attack against Vision-Language Models via Cross-modal Semantic Alignment**|Jiaqing Li et.al.|[2605.17341](http://arxiv.org/abs/2605.17341)|null|
+|**2026-05-14**|**Privacy Evaluation of Generative Models for Trajectory Generation**|Stavros Bouras et.al.|[2605.15246](http://arxiv.org/abs/2605.15246)|null|
+|**2026-05-14**|**ReMIA: a Powerful and Efficient Alternative to Membership Inference Attacks against Synthetic Data Generators**|Davide Scassola et.al.|[2605.14686](http://arxiv.org/abs/2605.14686)|null|
+|**2026-05-14**|**Privacy Auditing with Zero (0) Training Run**|Tudor Cebere et.al.|[2605.14591](http://arxiv.org/abs/2605.14591)|null|
+|**2026-05-12**|**DistractMIA: Black-Box Membership Inference on Vision-Language Models via Semantic Distraction**|Hongyi Tang et.al.|[2605.12574](http://arxiv.org/abs/2605.12574)|null|
+|**2026-05-12**|**FERMI: Exploiting Relations for Membership Inference Against Tabular Diffusion Models**|Abtin Mahyar et.al.|[2605.11527](http://arxiv.org/abs/2605.11527)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+
+## Side-Channel Attack
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-06-08**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
+|**2026-06-01**|**DECKER: Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition**|Bikrant Bikram Pratap Maurya et.al.|[2605.03384](http://arxiv.org/abs/2605.03384)|null|
+|**2026-05-27**|**EyeSpy: Inferring Eye Gaze via Side-Channel Attacks Against Foveated Rendering**|Paul Maynard et.al.|[2605.27939](http://arxiv.org/abs/2605.27939)|null|
+|**2026-05-26**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|null|
+|**2026-05-25**|**QGCL: Quantum-Guided Clause Learning for Cryptanalytic SAT**|Walid El Maouaki et.al.|[2605.25756](http://arxiv.org/abs/2605.25756)|null|
+|**2026-05-25**|**Q-LEAK: Quantum-Based LEAKage Verification for Side-Channel Countermeasures**|Walid El Maouaki et.al.|[2605.25728](http://arxiv.org/abs/2605.25728)|null|
+|**2026-05-25**|**Formal Verification of Probing Security via Conditional Independence**|Satoshi Kura et.al.|[2605.23316](http://arxiv.org/abs/2605.23316)|null|
+|**2026-05-24**|**When Skills Don't Help: A Negative Result on Procedural Knowledge for Tool-Grounded Agents in Offensive Cybersecurity**|Samuel Jacob Chacko et.al.|[2605.20023](http://arxiv.org/abs/2605.20023)|null|
+|**2026-05-21**|**A Constant-Time Implementation Methodology for Activation Functions on Microcontrollers**|Andrii Tyvodar et.al.|[2605.22441](http://arxiv.org/abs/2605.22441)|null|
+|**2026-05-20**|**PrefixWall: Mitigating Prefix Caching Side Channels in Shared LLM Systems**|Panagiotis Georgios Pennas et.al.|[2603.10726](http://arxiv.org/abs/2603.10726)|null|
+|**2026-05-17**|**Rethinking Side-Channel Analysis: Automated Discovery and Analysis of Side-Channel Leakage with LLM-Assisted Agents**|Zhen Xu et.al.|[2605.17406](http://arxiv.org/abs/2605.17406)|null|
+|**2026-05-16**|**quantum-safe: Bridging the Post-Quantum Production Gap with a Hybrid-by-Default Python Cryptography Library**|Animesh Shaw et.al.|[2605.17061](http://arxiv.org/abs/2605.17061)|null|
+|**2026-05-14**|**Capacitive Touchscreens at Risk: A Practical Side-Channel Attack on Smartphones via Electromagnetic Emanations**|Yukun Cheng et.al.|[2605.14633](http://arxiv.org/abs/2605.14633)|null|
+|**2026-05-13**|**ThermalTap: Passive Application Fingerprinting in VR Headsets via Thermal Side Channels**|Mahsin Bin Akram et.al.|[2605.12927](http://arxiv.org/abs/2605.12927)|null|
+|**2026-05-08**|**Spying Across Chiplets: Side-Channel Attacks in 2.5/3D Integrated Systems**|Giorgio Di Natale et.al.|[2605.07486](http://arxiv.org/abs/2605.07486)|null|
+|**2026-05-01**|**Watch Your Step: Information Injection in Diffusion Models via Shadow Timestep Embedding**|An Huang et.al.|[2605.00935](http://arxiv.org/abs/2605.00935)|null|
+|**2026-04-30**|**Source-independent quantum key distribution without pre-sending entanglement**|Rong-Zheng Liu et.al.|[2604.28089](http://arxiv.org/abs/2604.28089)|null|
+|**2026-04-26**|**Trojan-Resilient NTT: Protecting Against Control Flow and Timing Faults on Reconfigurable Platforms**|Rourab Paul et.al.|[2601.22804](http://arxiv.org/abs/2601.22804)|null|
+|**2026-04-24**|**Secure eFPGA-Enabled Edge LLM Inference: Architectural and Hardware Countermeasures**|Voktho Das et.al.|[2604.22935](http://arxiv.org/abs/2604.22935)|null|
+|**2026-04-18**|**DALC-CT: Dynamic Analysis of Low-Level Code Traces for Constant-Time Verification**|Nges Brian Njungle et.al.|[2604.16832](http://arxiv.org/abs/2604.16832)|null|
+|**2026-04-15**|**Physically-Guided Optical Inversion Enable Non-Contact Side-Channel Attack on Isolated Screens**|Zhiwen Zheng et.al.|[2604.13419](http://arxiv.org/abs/2604.13419)|null|
+|**2026-04-14**|**CoLA: A Choice Leakage Attack Framework to Expose Privacy Risks in Subset Training**|Qi Li et.al.|[2604.12342](http://arxiv.org/abs/2604.12342)|null|
+|**2026-04-13**|**Nanvix: A Multikernel OS Design for High-Density Serverless Deployments**|Carlos Segarra et.al.|[2604.11669](http://arxiv.org/abs/2604.11669)|null|
+|**2026-04-12**|**Analyzing Vector Register Usage in Linux Packages to Understand Real-World Impact of Downfall Attack**|Yohei Harata et.al.|[2604.10648](http://arxiv.org/abs/2604.10648)|null|
+|**2026-04-10**|**A Deductive System for Contract Satisfaction Proofs**|Arthur Correnson et.al.|[2604.09165](http://arxiv.org/abs/2604.09165)|null|
+|**2026-04-08**|**Turn Your Face Into An Attack Surface: Screen Attack Using Facial Reflections in Video Conferencing**|Yong Huang et.al.|[2604.06729](http://arxiv.org/abs/2604.06729)|null|
+|**2026-03-28**|**Fully Autonomous Z-Score-Based TinyML Anomaly Detection on Resource-Constrained MCUs Using Power Side-Channel Data**|Abdulrahman Albaiz et.al.|[2604.08581](http://arxiv.org/abs/2604.08581)|null|
+|**2026-03-27**|**Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models**|Eyal Hadad et.al.|[2603.25403](http://arxiv.org/abs/2603.25403)|null|
+|**2026-03-27**|**Kraken: Higher-order EM Side-Channel Attacks on DNNs in Near and Far Field**|Peter Horvath et.al.|[2603.02891](http://arxiv.org/abs/2603.02891)|null|
+|**2026-03-23**|**Hardening Confidential Federated Compute against Side-channel Attacks**|James Bell-Clark et.al.|[2603.21469](http://arxiv.org/abs/2603.21469)|null|
+|**2026-03-19**|**Controller Datapath Aware Verification of Masked Hardware Generated via High Level Synthesis**|Nilotpola Sarma et.al.|[2603.18939](http://arxiv.org/abs/2603.18939)|null|
+|**2026-02-23**|**CryptRISC: A Secure RISC-V Processor for High-Performance Cryptography with Power Side-Channel Protection**|Amisha Srivastava et.al.|[2602.20285](http://arxiv.org/abs/2602.20285)|null|
+|**2026-02-20**|**FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators**|Darsh Asher et.al.|[2602.18304](http://arxiv.org/abs/2602.18304)|null|
+|**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
+|**2026-02-09**|**Evasion of IoT Malware Detection via Dummy Code Injection**|Sahar Zargarzadeh et.al.|[2602.08170](http://arxiv.org/abs/2602.08170)|null|
+|**2026-02-02**|**QuietPrint: Protecting 3D Printers Against Acoustic Side-Channel Attacks**|Seyed Ali Ghazi Asgar et.al.|[2602.02198](http://arxiv.org/abs/2602.02198)|null|
+|**2026-02-02**|**Sleep Reveals the Nonce: Breaking ECDSA using Sleep-Based Power Side-Channel Vulnerability**|Sahan Sanjaya et.al.|[2602.01491](http://arxiv.org/abs/2602.01491)|null|
+|**2026-01-25**|**Data Siphoning Through Advanced Persistent Transmission Attacks At The Physical Layer**|Alon Hillel-Tuch et.al.|[2601.17967](http://arxiv.org/abs/2601.17967)|null|
+|**2026-01-22**|**Side-Channel Attacks on Open vSwitch**|Daewoo Kim et.al.|[2601.15632](http://arxiv.org/abs/2601.15632)|null|
+|**2026-01-20**|**Towards Device-Independent Quantum Key Distribution with Photonic Devices**|Corentin Lanore et.al.|[2601.14373](http://arxiv.org/abs/2601.14373)|null|
+
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
