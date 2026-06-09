@@ -1,5 +1,3 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Max0826"
 repo_name: "RAG-arxiv-daily"
 show_authors: True
