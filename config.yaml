@@ -21,12 +21,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Membership Inference Attack":
+        category: "cs.CR"
         filters: [
             "Membership Inference Attack",
             "Membership Inference Attacks",
             "Membership Inference"
     ]
     "Side-Channel Attack":
+        category: "cs.CR"
         filters: [
             "Side-Channel Attack",
             "Side Channel Attack",

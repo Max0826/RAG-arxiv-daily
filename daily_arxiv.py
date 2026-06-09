@@ -36,7 +36,12 @@ def load_config(config_file:str) -> dict:
                     ret += OR
             return ret
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            query = parse_filters(v['filters'])
+            category = v.get('category')
+            if category:
+                # restrict to an arXiv category, e.g. cs.CR, to cut cross-field noise
+                query = f"({query}) AND cat:{category}"
+            keywords[k] = query
         return keywords
     with open(config_file,'r',encoding="utf-8") as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
