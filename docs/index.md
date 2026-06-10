@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Advancing the State-of-the-Art in Empirical Privacy Auditing**|Nicole Mitchell et.al.|[2606.10481](http://arxiv.org/abs/2606.10481)|null|
 |**2026-06-08**|**Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models**|Bartłomiej Marek et.al.|[2606.09401](http://arxiv.org/abs/2606.09401)|null|
 |**2026-06-08**|**Pretrained, Frozen, Still Leaking: Auditing Cross-Encoder Attribute Transfer in EEG Foundation Models**|Jianwei Tai et.al.|[2606.09189](http://arxiv.org/abs/2606.09189)|null|
 |**2026-06-06**|**SoK: Reconstruction Attacks on Synthetic Tabular Data (Insights from Winning the NIST CRC)**|Steven Golob et.al.|[2606.08372](http://arxiv.org/abs/2606.08372)|null|
@@ -54,6 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Fingerprinting All AI Cluster I/O Without Mutually Trusted Processors**|Naci Cankaya et.al.|[2606.10724](http://arxiv.org/abs/2606.10724)|null|
 |**2026-06-08**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-06-01**|**DECKER: Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition**|Bikrant Bikram Pratap Maurya et.al.|[2605.03384](http://arxiv.org/abs/2605.03384)|null|
 |**2026-05-26**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|null|
