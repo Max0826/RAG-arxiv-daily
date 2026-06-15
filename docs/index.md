@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -56,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Side-Channel Attacks Bypass Protection in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-06-10**|**Partitioned Tags, Shared Data: Reconciling Strict Cache Isolation with Write-Shared Coherence**|Kartik Ramkrishnan et.al.|[2606.12259](http://arxiv.org/abs/2606.12259)|null|
 |**2026-06-09**|**Fingerprinting All AI Cluster I/O Without Mutually Trusted Processors**|Naci Cankaya et.al.|[2606.10724](http://arxiv.org/abs/2606.10724)|null|
 |**2026-06-08**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
