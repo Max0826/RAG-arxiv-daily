@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-13**|**VLALeaks: Membership Inference Attacks against Vision-Language-Action Models**|Xukun Luan et.al.|[2606.15165](http://arxiv.org/abs/2606.15165)|null|
 |**2026-06-10**|**Fed-FBD: Federated Functional Block Diversification for Isolation, Privacy, and Surgical Unlearning**|Weijie Chen et.al.|[2606.12679](http://arxiv.org/abs/2606.12679)|null|
 |**2026-06-09**|**Advancing the State-of-the-Art in Empirical Privacy Auditing**|Nicole Mitchell et.al.|[2606.10481](http://arxiv.org/abs/2606.10481)|null|
 |**2026-06-08**|**Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models**|Bartłomiej Marek et.al.|[2606.09401](http://arxiv.org/abs/2606.09401)|null|
@@ -56,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**MIPSBLEED: Uncovering Microarchitectural Timing Leaks in Pervasive Embedded Processors**|Ahmed Najeeb et.al.|[2606.16372](http://arxiv.org/abs/2606.16372)|null|
 |**2026-06-11**|**Side-Channel Attacks Bypass Protection in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-06-10**|**Partitioned Tags, Shared Data: Reconciling Strict Cache Isolation with Write-Shared Coherence**|Kartik Ramkrishnan et.al.|[2606.12259](http://arxiv.org/abs/2606.12259)|null|
 |**2026-06-09**|**Fingerprinting All AI Cluster I/O Without Mutually Trusted Processors**|Naci Cankaya et.al.|[2606.10724](http://arxiv.org/abs/2606.10724)|null|
