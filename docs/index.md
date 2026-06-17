@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Differential Privacy of Gaussian Process Posterior Sampling**|Tomasz Maciazek et.al.|[2606.17995](http://arxiv.org/abs/2606.17995)|null|
 |**2026-06-13**|**VLALeaks: Membership Inference Attacks against Vision-Language-Action Models**|Xukun Luan et.al.|[2606.15165](http://arxiv.org/abs/2606.15165)|null|
 |**2026-06-10**|**Fed-FBD: Federated Functional Block Diversification for Isolation, Privacy, and Surgical Unlearning**|Weijie Chen et.al.|[2606.12679](http://arxiv.org/abs/2606.12679)|null|
 |**2026-06-09**|**Advancing the State-of-the-Art in Empirical Privacy Auditing**|Nicole Mitchell et.al.|[2606.10481](http://arxiv.org/abs/2606.10481)|null|
