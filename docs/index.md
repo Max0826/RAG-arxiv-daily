@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-21**|**Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment**|Nguyen Linh Bao Nguyen et.al.|[2605.24312](http://arxiv.org/abs/2605.24312)|null|
 |**2026-06-18**|**bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM**|Christos Galanopoulos et.al.|[2606.20315](http://arxiv.org/abs/2606.20315)|null|
 |**2026-06-16**|**Differential Privacy of Gaussian Process Posterior Sampling**|Tomasz Maciazek et.al.|[2606.17995](http://arxiv.org/abs/2606.17995)|null|
 |**2026-06-13**|**VLALeaks: Membership Inference Attacks against Vision-Language-Action Models**|Xukun Luan et.al.|[2606.15165](http://arxiv.org/abs/2606.15165)|null|
@@ -23,7 +24,6 @@ layout: default
 |**2026-06-02**|**ImageAuditor: Membership Inference Attack against Image-based Retrieval-Augmented Generation**|Jinghuai Zhang et.al.|[2606.03354](http://arxiv.org/abs/2606.03354)|null|
 |**2026-06-02**|**Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data**|Ahmed Mehdi Inane et.al.|[2605.11170](http://arxiv.org/abs/2605.11170)|null|
 |**2026-05-31**|**Differentially Private Datastore Generation for Retrieval-Augmented Inference**|Abdelrahman Abouelenein et.al.|[2606.01413](http://arxiv.org/abs/2606.01413)|null|
-|**2026-05-31**|**Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment**|Nguyen Linh Bao Nguyen et.al.|[2605.24312](http://arxiv.org/abs/2605.24312)|null|
 |**2026-05-31**|**Auditing Privacy in Multi-Tenant RAG under Account Collusion**|Florian A. D. Burnat et.al.|[2605.19847](http://arxiv.org/abs/2605.19847)|null|
 |**2026-05-30**|**Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set**|Jie Fu et.al.|[2605.01129](http://arxiv.org/abs/2605.01129)|null|
 |**2026-05-28**|**A Bayesian Approach to Membership Inference for Statistical Release**|Lisa Oakley et.al.|[2605.30203](http://arxiv.org/abs/2605.30203)|null|
