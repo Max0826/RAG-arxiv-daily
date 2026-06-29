@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -62,11 +62,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-26**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-06-24**|**Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging**|Himanandhan Reddy Kottur et.al.|[2606.26426](http://arxiv.org/abs/2606.26426)|null|
 |**2026-06-23**|**PowerFuzz: Power-Based Black-Box Firmware Fuzzing**|Dakshina Tharindu et.al.|[2606.24692](http://arxiv.org/abs/2606.24692)|null|
 |**2026-06-21**|**MIPSBLEED: Uncovering Microarchitectural Timing Leaks in Pervasive Embedded Processors**|Ahmed Najeeb et.al.|[2606.16372](http://arxiv.org/abs/2606.16372)|null|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|null|
-|**2026-06-19**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-06-18**|**DISARM: Target Electronic Device Informed Mitigation of Software Runtime Side-Channel Vulnerabilities**|Tasneem Suha et.al.|[2606.19807](http://arxiv.org/abs/2606.19807)|null|
 |**2026-06-11**|**Side-Channel Attacks Bypass Protection in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-06-10**|**Partitioned Tags, Shared Data: Reconciling Strict Cache Isolation with Write-Shared Coherence**|Kartik Ramkrishnan et.al.|[2606.12259](http://arxiv.org/abs/2606.12259)|null|
