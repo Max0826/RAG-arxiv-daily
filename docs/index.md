@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Discard the Dross and Select the Essential: Pre-query Sample Selection for Black-box Membership Inference Attacks**|Dongdong Zhao et.al.|[2606.30081](http://arxiv.org/abs/2606.30081)|null|
 |**2026-06-24**|**Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries**|Tânia Carvalho et.al.|[2606.26021](http://arxiv.org/abs/2606.26021)|null|
 |**2026-06-24**|**Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems**|Balamurugan Palanisamy et.al.|[2606.25533](http://arxiv.org/abs/2606.25533)|null|
 |**2026-06-22**|**Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models**|Rishabh Sharma et.al.|[2606.24000](http://arxiv.org/abs/2606.24000)|null|
