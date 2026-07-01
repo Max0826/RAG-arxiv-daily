@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -63,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Exploring Side-Channel Protections in Hardware Implementations of PQC ML-KEM Verification**|Davis Ranney et.al.|[2606.31681](http://arxiv.org/abs/2606.31681)|null|
 |**2026-06-26**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-06-24**|**Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging**|Himanandhan Reddy Kottur et.al.|[2606.26426](http://arxiv.org/abs/2606.26426)|null|
 |**2026-06-23**|**PowerFuzz: Power-Based Black-Box Firmware Fuzzing**|Dakshina Tharindu et.al.|[2606.24692](http://arxiv.org/abs/2606.24692)|null|
