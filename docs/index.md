@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Auditing of Unlearning Algorithms**|Sahasrajit Sarmasarkar et.al.|[2607.05898](http://arxiv.org/abs/2607.05898)|null|
+|**2026-07-06**|**From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure**|Qirui Huang et.al.|[2607.05111](http://arxiv.org/abs/2607.05111)|null|
+|**2026-07-05**|**One Framework for All: Cross-Modal Membership Inference for Generative Models**|Dayong Ye et.al.|[2607.04339](http://arxiv.org/abs/2607.04339)|null|
+|**2026-07-03**|**TIER: Trajectory-Invariant Explanation Regularization for Membership Privacy**|Varun Sharma et.al.|[2607.02903](http://arxiv.org/abs/2607.02903)|null|
 |**2026-06-29**|**Discard the Dross and Select the Essential: Pre-query Sample Selection for Black-box Membership Inference Attacks**|Dongdong Zhao et.al.|[2606.30081](http://arxiv.org/abs/2606.30081)|null|
 |**2026-06-24**|**Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries**|Tânia Carvalho et.al.|[2606.26021](http://arxiv.org/abs/2606.26021)|null|
 |**2026-06-24**|**Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems**|Balamurugan Palanisamy et.al.|[2606.25533](http://arxiv.org/abs/2606.25533)|null|
@@ -63,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-04**|**Securing Deep Learning Hardware: A Survey of Side-Channel Vulnerabilities and Countermeasures**|Zahra Mohammadi et.al.|[2607.04055](http://arxiv.org/abs/2607.04055)|null|
 |**2026-06-30**|**A Non-Line-of-Sight, Multi-Modality-based Side-Channel IP Theft Attack on Additive Manufacturing Using Dual Smartphones**|Amirhossein Jamarani et.al.|[2607.00186](http://arxiv.org/abs/2607.00186)|null|
 |**2026-06-30**|**Exploring Side-Channel Protections in Hardware Implementations of PQC ML-KEM Verification**|Davis Ranney et.al.|[2606.31681](http://arxiv.org/abs/2606.31681)|null|
 |**2026-06-26**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
