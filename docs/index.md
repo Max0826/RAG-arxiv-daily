@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning**|Jannatul Ferdous et.al.|[2607.06860](http://arxiv.org/abs/2607.06860)|null|
 |**2026-07-07**|**Auditing of Unlearning Algorithms**|Sahasrajit Sarmasarkar et.al.|[2607.05898](http://arxiv.org/abs/2607.05898)|null|
 |**2026-07-06**|**From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure**|Qirui Huang et.al.|[2607.05111](http://arxiv.org/abs/2607.05111)|null|
 |**2026-07-05**|**One Framework for All: Cross-Modal Membership Inference for Generative Models**|Dayong Ye et.al.|[2607.04339](http://arxiv.org/abs/2607.04339)|null|
