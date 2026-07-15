@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -68,6 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers**|Shashvat Shukla et.al.|[2607.12174](http://arxiv.org/abs/2607.12174)|null|
 |**2026-07-12**|**ARMOR-IMC: Adaptive Resource Mapping for Operational Robustness via Secure In-Memory Computing**|Muhtasim Alam Chowdhury et.al.|[2607.10938](http://arxiv.org/abs/2607.10938)|null|
 |**2026-07-04**|**Securing Deep Learning Hardware: A Survey of Side-Channel Vulnerabilities and Countermeasures**|Zahra Mohammadi et.al.|[2607.04055](http://arxiv.org/abs/2607.04055)|null|
 |**2026-06-30**|**A Non-Line-of-Sight, Multi-Modality-based Side-Channel IP Theft Attack on Additive Manufacturing Using Dual Smartphones**|Amirhossein Jamarani et.al.|[2607.00186](http://arxiv.org/abs/2607.00186)|null|
