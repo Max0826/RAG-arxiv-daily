@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**When T2I Synthetic Data Backfires: Amplified Privacy Risks in Real-Synthetic Mix Training**|Na Li et.al.|[2607.13541](http://arxiv.org/abs/2607.13541)|null|
+|**2026-07-15**|**Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors**|Michael O. Eniolade et.al.|[2607.13411](http://arxiv.org/abs/2607.13411)|null|
 |**2026-07-07**|**Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning**|Jannatul Ferdous et.al.|[2607.06860](http://arxiv.org/abs/2607.06860)|null|
 |**2026-07-07**|**Auditing of Unlearning Algorithms**|Sahasrajit Sarmasarkar et.al.|[2607.05898](http://arxiv.org/abs/2607.05898)|null|
 |**2026-07-06**|**From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure**|Qirui Huang et.al.|[2607.05111](http://arxiv.org/abs/2607.05111)|null|

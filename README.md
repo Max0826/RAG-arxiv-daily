@@ -1,4 +1,4 @@
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**When T2I Synthetic Data Backfires: Amplified Privacy Risks in Real-Synthetic Mix Training**|Na Li et.al.|[2607.13541](http://arxiv.org/abs/2607.13541)|null|
+|**2026-07-15**|**Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors**|Michael O. Eniolade et.al.|[2607.13411](http://arxiv.org/abs/2607.13411)|null|
 |**2026-07-07**|**Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning**|Jannatul Ferdous et.al.|[2607.06860](http://arxiv.org/abs/2607.06860)|null|
 |**2026-07-07**|**Auditing of Unlearning Algorithms**|Sahasrajit Sarmasarkar et.al.|[2607.05898](http://arxiv.org/abs/2607.05898)|null|
 |**2026-07-06**|**From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure**|Qirui Huang et.al.|[2607.05111](http://arxiv.org/abs/2607.05111)|null|
@@ -68,7 +70,7 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 ## Side-Channel Attack
 
@@ -129,7 +131,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
