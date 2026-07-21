@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning**|Rakshit Naidu et.al.|[2607.16620](http://arxiv.org/abs/2607.16620)|null|
 |**2026-07-15**|**When T2I Synthetic Data Backfires: Amplified Privacy Risks in Real-Synthetic Mix Training**|Na Li et.al.|[2607.13541](http://arxiv.org/abs/2607.13541)|null|
 |**2026-07-15**|**Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors**|Michael O. Eniolade et.al.|[2607.13411](http://arxiv.org/abs/2607.13411)|null|
 |**2026-07-07**|**Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning**|Jannatul Ferdous et.al.|[2607.06860](http://arxiv.org/abs/2607.06860)|null|
@@ -19,6 +20,7 @@ layout: default
 |**2026-06-29**|**Discard the Dross and Select the Essential: Pre-query Sample Selection for Black-box Membership Inference Attacks**|Dongdong Zhao et.al.|[2606.30081](http://arxiv.org/abs/2606.30081)|null|
 |**2026-06-24**|**Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries**|Tânia Carvalho et.al.|[2606.26021](http://arxiv.org/abs/2606.26021)|null|
 |**2026-06-24**|**Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems**|Balamurugan Palanisamy et.al.|[2606.25533](http://arxiv.org/abs/2606.25533)|null|
+|**2026-06-23**|**LLM Unlearning for Cyber Defense: A Survey on Methods, Challenges, and Emerging Threats**|Ruppikha Sree Shankar et.al.|[2607.16227](http://arxiv.org/abs/2607.16227)|null|
 |**2026-06-22**|**Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models**|Rishabh Sharma et.al.|[2606.24000](http://arxiv.org/abs/2606.24000)|null|
 |**2026-06-21**|**Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment**|Nguyen Linh Bao Nguyen et.al.|[2605.24312](http://arxiv.org/abs/2605.24312)|null|
 |**2026-06-18**|**bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM**|Christos Galanopoulos et.al.|[2606.20315](http://arxiv.org/abs/2606.20315)|null|
@@ -46,6 +48,7 @@ layout: default
 |**2026-05-14**|**Privacy Auditing with Zero (0) Training Run**|Tudor Cebere et.al.|[2605.14591](http://arxiv.org/abs/2605.14591)|null|
 |**2026-05-12**|**FERMI: Exploiting Relations for Membership Inference Against Tabular Diffusion Models**|Abtin Mahyar et.al.|[2605.11527](http://arxiv.org/abs/2605.11527)|null|
 |**2026-05-10**|**Privacy-Preserving Distributed Learning in IoT Systems: A Unified Threat Model and Evaluation Framework**|John Cartmell et.al.|[2605.09232](http://arxiv.org/abs/2605.09232)|null|
+|**2026-05-09**|**JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models**|Yeachan Jun et.al.|[2607.16207](http://arxiv.org/abs/2607.16207)|null|
 |**2026-05-08**|**Improving Parameter-Efficient Federated Learning with Differentially Private Refactorization**|Linh Tran et.al.|[2605.08443](http://arxiv.org/abs/2605.08443)|null|
 |**2026-05-08**|**Membership Inference Attacks on Vision-Language-Action Models**|Yuefeng Peng et.al.|[2605.07088](http://arxiv.org/abs/2605.07088)|null|
 |**2026-05-07**|**Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models**|Zeyuan Chen et.al.|[2605.06423](http://arxiv.org/abs/2605.06423)|null|
