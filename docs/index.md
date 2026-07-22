@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
 |**2026-07-18**|**Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning**|Rakshit Naidu et.al.|[2607.16620](http://arxiv.org/abs/2607.16620)|null|
 |**2026-07-15**|**When T2I Synthetic Data Backfires: Amplified Privacy Risks in Real-Synthetic Mix Training**|Na Li et.al.|[2607.13541](http://arxiv.org/abs/2607.13541)|null|
 |**2026-07-15**|**Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors**|Michael O. Eniolade et.al.|[2607.13411](http://arxiv.org/abs/2607.13411)|null|
@@ -73,6 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC**|Gustavo Banegas et.al.|[2607.19109](http://arxiv.org/abs/2607.19109)|null|
+|**2026-07-20**|**Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs**|Alon Abudraham et.al.|[2607.17518](http://arxiv.org/abs/2607.17518)|null|
 |**2026-07-17**|**Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis**|Gijs Burghoorn et.al.|[2607.15782](http://arxiv.org/abs/2607.15782)|null|
 |**2026-07-16**|**Automated Template-free Synthesis of Instruction-Centric Leakage Contracts for Black-Box CPUs**|Elvira Moreno et.al.|[2607.15118](http://arxiv.org/abs/2607.15118)|null|
 |**2026-07-13**|**Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers**|Shashvat Shukla et.al.|[2607.12174](http://arxiv.org/abs/2607.12174)|null|
