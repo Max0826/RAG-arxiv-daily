@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -74,6 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**PATCH-FFT: Unmasking Dormant Hardware Trojans with Patch-Based Frequency-Domain Transformers**|Hasala Senevirathne et.al.|[2607.23421](http://arxiv.org/abs/2607.23421)|null|
+|**2026-07-25**|**SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow**|Andrija Nešković et.al.|[2607.23218](http://arxiv.org/abs/2607.23218)|null|
 |**2026-07-21**|**Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC**|Gustavo Banegas et.al.|[2607.19109](http://arxiv.org/abs/2607.19109)|null|
 |**2026-07-21**|**Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs**|Alon Abudraham et.al.|[2607.17518](http://arxiv.org/abs/2607.17518)|null|
 |**2026-07-17**|**Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis**|Gijs Burghoorn et.al.|[2607.15782](http://arxiv.org/abs/2607.15782)|null|
