@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -76,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts**|Stella Lau et.al.|[2607.27480](http://arxiv.org/abs/2607.27480)|null|
 |**2026-07-26**|**PATCH-FFT: Unmasking Dormant Hardware Trojans with Patch-Based Frequency-Domain Transformers**|Hasala Senevirathne et.al.|[2607.23421](http://arxiv.org/abs/2607.23421)|null|
 |**2026-07-25**|**SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow**|Andrija Nešković et.al.|[2607.23218](http://arxiv.org/abs/2607.23218)|null|
 |**2026-07-21**|**Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC**|Gustavo Banegas et.al.|[2607.19109](http://arxiv.org/abs/2607.19109)|null|
