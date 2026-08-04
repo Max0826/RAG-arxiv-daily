@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Leak It: A Probabilistic Approach to Training-Data Extraction from Black-Box Language Models**|Victor Maricato et.al.|[2608.00144](http://arxiv.org/abs/2608.00144)|null|
 |**2026-07-28**|**Bits and Memories: Measuring Verbatim Extraction Across LLM Quantization**|Akshay Sasi et.al.|[2607.25451](http://arxiv.org/abs/2607.25451)|null|
 |**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
 |**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
@@ -76,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Side-Channel Attacks Survive Noise Cancellation in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-07-29**|**Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts**|Stella Lau et.al.|[2607.27480](http://arxiv.org/abs/2607.27480)|null|
 |**2026-07-26**|**PATCH-FFT: Unmasking Dormant Hardware Trojans with Patch-Based Frequency-Domain Transformers**|Hasala Senevirathne et.al.|[2607.23421](http://arxiv.org/abs/2607.23421)|null|
 |**2026-07-25**|**SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow**|Andrija Nešković et.al.|[2607.23218](http://arxiv.org/abs/2607.23218)|null|
@@ -94,7 +96,6 @@ layout: default
 |**2026-06-21**|**MIPSBLEED: Uncovering Microarchitectural Timing Leaks in Pervasive Embedded Processors**|Ahmed Najeeb et.al.|[2606.16372](http://arxiv.org/abs/2606.16372)|null|
 |**2026-06-20**|**Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG**|He Sun et.al.|[2606.21842](http://arxiv.org/abs/2606.21842)|null|
 |**2026-06-18**|**DISARM: Target Electronic Device Informed Mitigation of Software Runtime Side-Channel Vulnerabilities**|Tasneem Suha et.al.|[2606.19807](http://arxiv.org/abs/2606.19807)|null|
-|**2026-06-11**|**Side-Channel Attacks Bypass Protection in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-06-10**|**Partitioned Tags, Shared Data: Reconciling Strict Cache Isolation with Write-Shared Coherence**|Kartik Ramkrishnan et.al.|[2606.12259](http://arxiv.org/abs/2606.12259)|null|
 |**2026-06-09**|**Fingerprinting All AI Cluster I/O Without Mutually Trusted Processors**|Naci Cankaya et.al.|[2606.10724](http://arxiv.org/abs/2606.10724)|null|
 |**2026-06-08**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
