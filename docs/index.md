@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.08.14
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-31**|**Leak It: A Probabilistic Approach to Training-Data Extraction from Black-Box Language Models**|Victor Maricato et.al.|[2608.00144](http://arxiv.org/abs/2608.00144)|null|
+|**2026-08-10**|**Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation**|Gijung Lee et.al.|[2608.09914](http://arxiv.org/abs/2608.09914)|null|
+|**2026-08-10**|**Mind the Hook: Source-Level Auditing of Privacy Defenses in Retrieval-Augmented Generation**|Yanhang Li et.al.|[2608.09001](http://arxiv.org/abs/2608.09001)|null|
+|**2026-08-10**|**Leak It: Per-Document Extraction Beyond Aggregate Membership Inference**|Victor Maricato et.al.|[2608.00144](http://arxiv.org/abs/2608.00144)|null|
 |**2026-07-28**|**Bits and Memories: Measuring Verbatim Extraction Across LLM Quantization**|Akshay Sasi et.al.|[2607.25451](http://arxiv.org/abs/2607.25451)|null|
 |**2026-07-27**|**ScoreShield: Differentially Private Release of Similarity Scores**|Behrooz Razeghi et.al.|[2607.25041](http://arxiv.org/abs/2607.25041)|null|
 |**2026-07-21**|**Code Division Modulation Layers Against Forgetting and Inference in Continual Gait Identification**|Simone Milani et.al.|[2607.19122](http://arxiv.org/abs/2607.19122)|null|
@@ -77,6 +79,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Plaintext Recovery Against Post-Filtering Access Control**|Zachary Espiritu et.al.|[2608.11730](http://arxiv.org/abs/2608.11730)|null|
+|**2026-08-11**|**A Lightweight Fault-Detection Scheme for Barrett Modular Multiplication Using Multiple Conditional Reduction Paths**|Rourab Paul et.al.|[2608.10736](http://arxiv.org/abs/2608.10736)|null|
+|**2026-08-11**|**Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees**|Zhiming Chi et.al.|[2608.10521](http://arxiv.org/abs/2608.10521)|null|
+|**2026-08-10**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
+|**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225](http://arxiv.org/abs/2608.09225)|null|
+|**2026-08-10**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-31**|**Side-Channel Attacks Survive Noise Cancellation in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-07-29**|**Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts**|Stella Lau et.al.|[2607.27480](http://arxiv.org/abs/2607.27480)|null|
 |**2026-07-26**|**PATCH-FFT: Unmasking Dormant Hardware Trojans with Patch-Based Frequency-Domain Transformers**|Hasala Senevirathne et.al.|[2607.23421](http://arxiv.org/abs/2607.23421)|null|
