@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -79,12 +79,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-08-12**|**Plaintext Recovery Against Post-Filtering Access Control**|Zachary Espiritu et.al.|[2608.11730](http://arxiv.org/abs/2608.11730)|null|
 |**2026-08-11**|**A Lightweight Fault-Detection Scheme for Barrett Modular Multiplication Using Multiple Conditional Reduction Paths**|Rourab Paul et.al.|[2608.10736](http://arxiv.org/abs/2608.10736)|null|
 |**2026-08-11**|**Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees**|Zhiming Chi et.al.|[2608.10521](http://arxiv.org/abs/2608.10521)|null|
 |**2026-08-10**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
 |**2026-08-10**|**Governing the KV Cache: Preventing Timing Side-Channel Leakage in Multi-Tenant LLM Inference**|Tejasvi C. Addagada et.al.|[2608.09225](http://arxiv.org/abs/2608.09225)|null|
-|**2026-08-10**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-31**|**Side-Channel Attacks Survive Noise Cancellation in 3D Printers**|Eric Yocam et.al.|[2606.13952](http://arxiv.org/abs/2606.13952)|null|
 |**2026-07-29**|**Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts**|Stella Lau et.al.|[2607.27480](http://arxiv.org/abs/2607.27480)|null|
 |**2026-07-26**|**PATCH-FFT: Unmasking Dormant Hardware Trojans with Patch-Based Frequency-Domain Transformers**|Hasala Senevirathne et.al.|[2607.23421](http://arxiv.org/abs/2607.23421)|null|
