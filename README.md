@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -80,12 +80,13 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-08-12**|**Plaintext Recovery Against Post-Filtering Access Control**|Zachary Espiritu et.al.|[2608.11730](http://arxiv.org/abs/2608.11730)|null|
 |**2026-08-11**|**A Lightweight Fault-Detection Scheme for Barrett Modular Multiplication Using Multiple Conditional Reduction Paths**|Rourab Paul et.al.|[2608.10736](http://arxiv.org/abs/2608.10736)|null|
@@ -154,7 +155,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
