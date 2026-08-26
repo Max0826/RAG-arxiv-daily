@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**DIME: Query-Efficient Framework for Membership Inference on Diffusion Models**|Tue Do et.al.|[2608.22824](http://arxiv.org/abs/2608.22824)|null|
+|**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
 |**2026-08-18**|**MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning**|Xukun Luan et.al.|[2608.17722](http://arxiv.org/abs/2608.17722)|null|
 |**2026-08-16**|**Five Queries Are Enough: Query-Efficient and Surrogate-Free Membership Inference Attacks on RAG via Entailment**|Nguyen Linh Bao Nguyen et.al.|[2605.24312](http://arxiv.org/abs/2605.24312)|null|
 |**2026-08-10**|**Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation**|Gijung Lee et.al.|[2608.09914](http://arxiv.org/abs/2608.09914)|null|
