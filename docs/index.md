@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Are LLM-Enhanced GNNs Privacy-Safe?**|Longzhu He et.al.|[2608.25727](http://arxiv.org/abs/2608.25727)|null|
 |**2026-08-24**|**DIME: Query-Efficient Framework for Membership Inference on Diffusion Models**|Tue Do et.al.|[2608.22824](http://arxiv.org/abs/2608.22824)|null|
 |**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
 |**2026-08-18**|**MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning**|Xukun Luan et.al.|[2608.17722](http://arxiv.org/abs/2608.17722)|null|
@@ -82,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing**|Dev Mehta et.al.|[2608.25321](http://arxiv.org/abs/2608.25321)|null|
 |**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-08-12**|**Plaintext Recovery Against Post-Filtering Access Control**|Zachary Espiritu et.al.|[2608.11730](http://arxiv.org/abs/2608.11730)|null|
