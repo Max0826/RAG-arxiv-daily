@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.28
+## Updated on 2026.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Neighborhood Watch: Privacy Risks in Seeded Local Combination Synthetic Data**|Hadrien Lautraite et.al.|[2608.27037](http://arxiv.org/abs/2608.27037)|null|
 |**2026-08-26**|**Are LLM-Enhanced GNNs Privacy-Safe?**|Longzhu He et.al.|[2608.25727](http://arxiv.org/abs/2608.25727)|null|
 |**2026-08-24**|**DIME: Query-Efficient Framework for Membership Inference on Diffusion Models**|Tue Do et.al.|[2608.22824](http://arxiv.org/abs/2608.22824)|null|
 |**2026-08-23**|**Mitigating Explanation Leakage in Financial Fraud Detection Systems**|Muhammad Waleed Gul et.al.|[2608.22607](http://arxiv.org/abs/2608.22607)|null|
@@ -83,6 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-08-26**|**LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing**|Dev Mehta et.al.|[2608.25321](http://arxiv.org/abs/2608.25321)|null|
 |**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
@@ -112,7 +114,6 @@ layout: default
 |**2026-06-18**|**DISARM: Target Electronic Device Informed Mitigation of Software Runtime Side-Channel Vulnerabilities**|Tasneem Suha et.al.|[2606.19807](http://arxiv.org/abs/2606.19807)|null|
 |**2026-06-10**|**Partitioned Tags, Shared Data: Reconciling Strict Cache Isolation with Write-Shared Coherence**|Kartik Ramkrishnan et.al.|[2606.12259](http://arxiv.org/abs/2606.12259)|null|
 |**2026-06-09**|**Fingerprinting All AI Cluster I/O Without Mutually Trusted Processors**|Naci Cankaya et.al.|[2606.10724](http://arxiv.org/abs/2606.10724)|null|
-|**2026-06-08**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-06-01**|**DECKER: Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition**|Bikrant Bikram Pratap Maurya et.al.|[2605.03384](http://arxiv.org/abs/2605.03384)|null|
 |**2026-05-26**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|null|
 |**2026-05-25**|**Formal Verification of Probing Security via Conditional Independence**|Satoshi Kura et.al.|[2605.23316](http://arxiv.org/abs/2605.23316)|null|
