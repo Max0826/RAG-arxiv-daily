@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
+|**2026-08-28**|**Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models**|Feng Jiang et.al.|[2608.28929](http://arxiv.org/abs/2608.28929)|null|
+|**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
 |**2026-08-27**|**Neighborhood Watch: Privacy Risks in Seeded Local Combination Synthetic Data**|Hadrien Lautraite et.al.|[2608.27037](http://arxiv.org/abs/2608.27037)|null|
 |**2026-08-26**|**Are LLM-Enhanced GNNs Privacy-Safe?**|Longzhu He et.al.|[2608.25727](http://arxiv.org/abs/2608.25727)|null|
 |**2026-08-24**|**DIME: Query-Efficient Framework for Membership Inference on Diffusion Models**|Tue Do et.al.|[2608.22824](http://arxiv.org/abs/2608.22824)|null|
@@ -84,12 +87,13 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**A Simple Transformer Pipeline for Full-Key Side-Channel Attacks on Uncropped Datasets**|Jimmy Gammell et.al.|[2608.30105](http://arxiv.org/abs/2608.30105)|null|
 |**2026-08-27**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-08-26**|**LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing**|Dev Mehta et.al.|[2608.25321](http://arxiv.org/abs/2608.25321)|null|
 |**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
@@ -160,7 +164,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
