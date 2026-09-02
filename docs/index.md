@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry**|Shengfang Zhai et.al.|[2609.00873](http://arxiv.org/abs/2609.00873)|null|
 |**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
 |**2026-08-28**|**Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models**|Feng Jiang et.al.|[2608.28929](http://arxiv.org/abs/2608.28929)|null|
 |**2026-08-28**|**FISGuard: Defending Against Membership Inference via Fixed Input Subspaces**|Haocheng Jiang et.al.|[2608.27836](http://arxiv.org/abs/2608.27836)|null|
@@ -88,6 +89,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-08-31**|**A Simple Transformer Pipeline for Full-Key Side-Channel Attacks on Uncropped Datasets**|Jimmy Gammell et.al.|[2608.30105](http://arxiv.org/abs/2608.30105)|null|
+|**2026-08-31**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-08-27**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-08-26**|**LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing**|Dev Mehta et.al.|[2608.25321](http://arxiv.org/abs/2608.25321)|null|
 |**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
@@ -110,7 +112,6 @@ layout: default
 |**2026-07-04**|**Securing Deep Learning Hardware: A Survey of Side-Channel Vulnerabilities and Countermeasures**|Zahra Mohammadi et.al.|[2607.04055](http://arxiv.org/abs/2607.04055)|null|
 |**2026-06-30**|**A Non-Line-of-Sight, Multi-Modality-based Side-Channel IP Theft Attack on Additive Manufacturing Using Dual Smartphones**|Amirhossein Jamarani et.al.|[2607.00186](http://arxiv.org/abs/2607.00186)|null|
 |**2026-06-30**|**Exploring Side-Channel Protections in Hardware Implementations of PQC ML-KEM Verification**|Davis Ranney et.al.|[2606.31681](http://arxiv.org/abs/2606.31681)|null|
-|**2026-06-26**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-06-24**|**Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging**|Himanandhan Reddy Kottur et.al.|[2606.26426](http://arxiv.org/abs/2606.26426)|null|
 |**2026-06-23**|**PowerFuzz: Power-Based Black-Box Firmware Fuzzing**|Dakshina Tharindu et.al.|[2606.24692](http://arxiv.org/abs/2606.24692)|null|
 |**2026-06-21**|**MIPSBLEED: Uncovering Microarchitectural Timing Leaks in Pervasive Embedded Processors**|Ahmed Najeeb et.al.|[2606.16372](http://arxiv.org/abs/2606.16372)|null|
