@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
 |**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[2609.03064](http://arxiv.org/abs/2609.03064)|null|
 |**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-09-01**|**Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry**|Shengfang Zhai et.al.|[2609.00873](http://arxiv.org/abs/2609.00873)|null|
@@ -90,11 +91,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
 |**2026-09-07**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-06**|**Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving**|Rana Abu Bakar et.al.|[2609.06853](http://arxiv.org/abs/2609.06853)|null|
 |**2026-09-06**|**Efficient Hardware Information-Flow Tracking for Pre-Silicon Security Testing**|Yu-Wei Fan et.al.|[2609.06791](http://arxiv.org/abs/2609.06791)|null|
 |**2026-09-06**|**Watch and Crack: Password Inference from Smart-Glasses Video**|Yoav Orenbach et.al.|[2609.06539](http://arxiv.org/abs/2609.06539)|null|
-|**2026-09-03**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
 |**2026-08-31**|**A Simple Transformer Pipeline for Full-Key Side-Channel Attacks on Uncropped Datasets**|Jimmy Gammell et.al.|[2608.30105](http://arxiv.org/abs/2608.30105)|null|
 |**2026-08-31**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-08-27**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
