@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2**|William Novak et.al.|[2609.10935](http://arxiv.org/abs/2609.10935)|null|
+|**2026-09-09**|**SoK: Privacy Attacks on Machine Learning via Explainable AI**|Abdullah Caglar Oksuz et.al.|[2609.10627](http://arxiv.org/abs/2609.10627)|null|
 |**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
+|**2026-09-08**|**Black-Box Membership Inference via Word-Level Probability Estimation**|Shengjie Niu et.al.|[2609.10611](http://arxiv.org/abs/2609.10611)|null|
+|**2026-09-08**|**Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks**|Jialu Guo et.al.|[2609.10608](http://arxiv.org/abs/2609.10608)|null|
 |**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[2609.03064](http://arxiv.org/abs/2609.03064)|null|
 |**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-09-01**|**Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry**|Shengfang Zhai et.al.|[2609.00873](http://arxiv.org/abs/2609.00873)|null|
@@ -91,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Chypothermia: Clock Freezing for Static Side-channel Attacks**|Fatemeh Khojasteh Dana et.al.|[2609.11442](http://arxiv.org/abs/2609.11442)|null|
+|**2026-09-09**|**HermiCache: Enclave-Aware Cache Replacement for Trusted Execution Environments**|Oussama Elmnaouri et.al.|[2609.10634](http://arxiv.org/abs/2609.10634)|null|
 |**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
 |**2026-09-07**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-06**|**Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving**|Rana Abu Bakar et.al.|[2609.06853](http://arxiv.org/abs/2609.06853)|null|
