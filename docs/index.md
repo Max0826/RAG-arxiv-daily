@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.12
+## Updated on 2026.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Predicting Privacy Leakage from Weight Spectral Density**|Richard J. Preen et.al.|[2609.11780](http://arxiv.org/abs/2609.11780)|null|
 |**2026-09-10**|**Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2**|William Novak et.al.|[2609.10935](http://arxiv.org/abs/2609.10935)|null|
 |**2026-09-09**|**SoK: Privacy Attacks on Machine Learning via Explainable AI**|Abdullah Caglar Oksuz et.al.|[2609.10627](http://arxiv.org/abs/2609.10627)|null|
 |**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
