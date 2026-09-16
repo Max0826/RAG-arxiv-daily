@@ -1,4 +1,4 @@
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,12 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
+|**2026-09-13**|**CIG-MIA: Context-Induced Information Gain Membership Inference Attacks against Retrieval-Augmented Generation**|Tan Xue et.al.|[2609.14649](http://arxiv.org/abs/2609.14649)|null|
 |**2026-09-10**|**Predicting Privacy Leakage from Weight Spectral Density**|Richard J. Preen et.al.|[2609.11780](http://arxiv.org/abs/2609.11780)|null|
 |**2026-09-10**|**Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2**|William Novak et.al.|[2609.10935](http://arxiv.org/abs/2609.10935)|null|
 |**2026-09-09**|**SoK: Privacy Attacks on Machine Learning via Explainable AI**|Abdullah Caglar Oksuz et.al.|[2609.10627](http://arxiv.org/abs/2609.10627)|null|
 |**2026-09-09**|**Subgroup Membership Inference Audits of Differentially Private Synthetic Text**|Yidan Sun et.al.|[2609.09848](http://arxiv.org/abs/2609.09848)|null|
 |**2026-09-08**|**Black-Box Membership Inference via Word-Level Probability Estimation**|Shengjie Niu et.al.|[2609.10611](http://arxiv.org/abs/2609.10611)|null|
 |**2026-09-08**|**Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks**|Jialu Guo et.al.|[2609.10608](http://arxiv.org/abs/2609.10608)|null|
+|**2026-09-07**|**CANAL: Channel-Aware Noise Allocation for Differentially Private Feature Distillation in Medical Image Segmentation**|Armaghan Butt et.al.|[2609.13271](http://arxiv.org/abs/2609.13271)|null|
 |**2026-09-02**|**Differentially private federated learning with Byzantine-robust aggregation: A cross-domain framework for secure model training in banking and healthcare systems**|Srikumar Nayak et.al.|[2609.03064](http://arxiv.org/abs/2609.03064)|null|
 |**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-09-01**|**Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry**|Shengfang Zhai et.al.|[2609.00873](http://arxiv.org/abs/2609.00873)|null|
@@ -96,12 +99,14 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges**|Swapnil Vishwas Baviskar et.al.|[2609.16675](http://arxiv.org/abs/2609.16675)|null|
+|**2026-09-14**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-10**|**Chypothermia: Clock Freezing for Static Side-channel Attacks**|Fatemeh Khojasteh Dana et.al.|[2609.11442](http://arxiv.org/abs/2609.11442)|null|
 |**2026-09-09**|**HermiCache: Enclave-Aware Cache Replacement for Trusted Execution Environments**|Oussama Elmnaouri et.al.|[2609.10634](http://arxiv.org/abs/2609.10634)|null|
 |**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
@@ -110,7 +115,6 @@
 |**2026-09-06**|**Efficient Hardware Information-Flow Tracking for Pre-Silicon Security Testing**|Yu-Wei Fan et.al.|[2609.06791](http://arxiv.org/abs/2609.06791)|null|
 |**2026-09-06**|**Watch and Crack: Password Inference from Smart-Glasses Video**|Yoav Orenbach et.al.|[2609.06539](http://arxiv.org/abs/2609.06539)|null|
 |**2026-08-31**|**A Simple Transformer Pipeline for Full-Key Side-Channel Attacks on Uncropped Datasets**|Jimmy Gammell et.al.|[2608.30105](http://arxiv.org/abs/2608.30105)|null|
-|**2026-08-31**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-08-27**|**Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors**|Takao Murakami et.al.|[2606.09402](http://arxiv.org/abs/2606.09402)|null|
 |**2026-08-26**|**LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing**|Dev Mehta et.al.|[2608.25321](http://arxiv.org/abs/2608.25321)|null|
 |**2026-08-21**|**Uncovering and Understanding Hidden Dependencies in the LLM API Reseller Ecosystem via Prefix-Cache Side Channels**|Zimo Ji et.al.|[2608.20732](http://arxiv.org/abs/2608.20732)|null|
@@ -180,7 +184,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
