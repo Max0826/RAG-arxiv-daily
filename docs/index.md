@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -99,12 +99,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-15**|**From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges**|Swapnil Vishwas Baviskar et.al.|[2609.16675](http://arxiv.org/abs/2609.16675)|null|
 |**2026-09-14**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-10**|**Chypothermia: Clock Freezing for Static Side-channel Attacks**|Fatemeh Khojasteh Dana et.al.|[2609.11442](http://arxiv.org/abs/2609.11442)|null|
 |**2026-09-09**|**HermiCache: Enclave-Aware Cache Replacement for Trusted Execution Environments**|Oussama Elmnaouri et.al.|[2609.10634](http://arxiv.org/abs/2609.10634)|null|
 |**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
-|**2026-09-07**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-06**|**Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving**|Rana Abu Bakar et.al.|[2609.06853](http://arxiv.org/abs/2609.06853)|null|
 |**2026-09-06**|**Efficient Hardware Information-Flow Tracking for Pre-Silicon Security Testing**|Yu-Wei Fan et.al.|[2609.06791](http://arxiv.org/abs/2609.06791)|null|
 |**2026-09-06**|**Watch and Crack: Password Inference from Smart-Glasses Video**|Yoav Orenbach et.al.|[2609.06539](http://arxiv.org/abs/2609.06539)|null|
