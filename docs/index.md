@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -99,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**POZZER: A Power Side Channel-guided Fuzzer for Black-Box Embedded Systems**|Pouya Narimani et.al.|[2609.23583](http://arxiv.org/abs/2609.23583)|null|
 |**2026-09-18**|**Et Tu, MacBook? Unprivileged Keystroke Inference and Context Profiling via the Built-in IMU Side Channel**|Jiaji He et.al.|[2609.21569](http://arxiv.org/abs/2609.21569)|null|
 |**2026-09-16**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-15**|**From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges**|Swapnil Vishwas Baviskar et.al.|[2609.16675](http://arxiv.org/abs/2609.16675)|null|
