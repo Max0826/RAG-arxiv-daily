@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -99,11 +99,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-20**|**POZZER: A Power Side Channel-guided Fuzzer for Black-Box Embedded Systems**|Pouya Narimani et.al.|[2609.23583](http://arxiv.org/abs/2609.23583)|null|
 |**2026-09-18**|**Et Tu, MacBook? Unprivileged Keystroke Inference and Context Profiling via the Built-in IMU Side Channel**|Jiaji He et.al.|[2609.21569](http://arxiv.org/abs/2609.21569)|null|
 |**2026-09-16**|**Crossing the Streams: SSH Plaintext Recovery via a Common Compression Context in Multiplexed Channels**|Fabian Bäumer et.al.|[2609.07709](http://arxiv.org/abs/2609.07709)|null|
 |**2026-09-15**|**From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges**|Swapnil Vishwas Baviskar et.al.|[2609.16675](http://arxiv.org/abs/2609.16675)|null|
-|**2026-09-14**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-10**|**Chypothermia: Clock Freezing for Static Side-channel Attacks**|Fatemeh Khojasteh Dana et.al.|[2609.11442](http://arxiv.org/abs/2609.11442)|null|
 |**2026-09-09**|**HermiCache: Enclave-Aware Cache Replacement for Trusted Execution Environments**|Oussama Elmnaouri et.al.|[2609.10634](http://arxiv.org/abs/2609.10634)|null|
 |**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
