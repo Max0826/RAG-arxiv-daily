@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -99,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Fast Frame Rate Estimation in Electromagnetic Side-Channel Attacks on Public Systems**|Alyson Isaluski et.al.|[2609.28916](http://arxiv.org/abs/2609.28916)|null|
 |**2026-09-23**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-09-23**|**Do Electromagnetic Side-Channel Attacks Threaten Electronic Polling Stations? Scenarios and Recommendations**|Lucas Brito et.al.|[2609.28209](http://arxiv.org/abs/2609.28209)|null|
 |**2026-09-21**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
