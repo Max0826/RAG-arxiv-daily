@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Calibrating One-Round Membership Inference with Neighbors**|Francesco Rita et.al.|[2609.36331](http://arxiv.org/abs/2609.36331)|null|
 |**2026-09-27**|**Near-Duplicate Families Break Exact-Record Membership Inference**|Yiyong Liu et.al.|[2609.33909](http://arxiv.org/abs/2609.33909)|null|
 |**2026-09-27**|**Leaky Students: Membership Inference against On-Policy Distillation**|Zhexi Lu et.al.|[2609.33136](http://arxiv.org/abs/2609.33136)|null|
 |**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
@@ -101,7 +102,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-28**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
+|**2026-09-29**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
+|**2026-09-28**|**OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates**|Haiyue Dong et.al.|[2609.35205](http://arxiv.org/abs/2609.35205)|null|
 |**2026-09-26**|**Coordinated Electromagnetic Side-Channel Attacks for Voter--Ballot Linking: A Case Study of the Brazilian E-Polling System**|Leandro Hyeda et.al.|[2609.32988](http://arxiv.org/abs/2609.32988)|null|
 |**2026-09-24**|**Fast Frame Rate Estimation in Electromagnetic Side-Channel Attacks on Public Systems**|Alyson Isaluski et.al.|[2609.28916](http://arxiv.org/abs/2609.28916)|null|
 |**2026-09-23**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
