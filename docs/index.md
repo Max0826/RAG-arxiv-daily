@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -102,6 +102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](http://arxiv.org/abs/2610.01736)|null|
 |**2026-09-30**|**SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs**|Fahao Chen et.al.|[2609.38830](http://arxiv.org/abs/2609.38830)|null|
 |**2026-09-29**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
 |**2026-09-28**|**OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates**|Haiyue Dong et.al.|[2609.35205](http://arxiv.org/abs/2609.35205)|null|
