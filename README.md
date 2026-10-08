@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
+|**2026-10-07**|**Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD**|Murat Bilgehan Ertan et.al.|[2610.09651](http://arxiv.org/abs/2610.09651)|null|
 |**2026-10-02**|**Auditing the Privacy of Synthetic Gene Expression Data: A Unified Weighted-Distance Framework for No-Box Membership Inference**|Owen Tucker et.al.|[2610.04060](http://arxiv.org/abs/2610.04060)|null|
 |**2026-09-28**|**Calibrating One-Round Membership Inference with Neighbors**|Francesco Rita et.al.|[2609.36331](http://arxiv.org/abs/2609.36331)|null|
 |**2026-09-27**|**Near-Duplicate Families Break Exact-Record Membership Inference**|Yiyong Liu et.al.|[2609.33909](http://arxiv.org/abs/2609.33909)|null|
@@ -103,7 +105,7 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## Side-Channel Attack
 
@@ -199,7 +201,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

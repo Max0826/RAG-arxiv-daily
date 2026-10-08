@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
+|**2026-10-07**|**Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD**|Murat Bilgehan Ertan et.al.|[2610.09651](http://arxiv.org/abs/2610.09651)|null|
 |**2026-10-02**|**Auditing the Privacy of Synthetic Gene Expression Data: A Unified Weighted-Distance Framework for No-Box Membership Inference**|Owen Tucker et.al.|[2610.04060](http://arxiv.org/abs/2610.04060)|null|
 |**2026-09-28**|**Calibrating One-Round Membership Inference with Neighbors**|Francesco Rita et.al.|[2609.36331](http://arxiv.org/abs/2609.36331)|null|
 |**2026-09-27**|**Near-Duplicate Families Break Exact-Record Membership Inference**|Yiyong Liu et.al.|[2609.33909](http://arxiv.org/abs/2609.33909)|null|
