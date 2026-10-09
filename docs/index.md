@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
+|**2026-10-07**|**When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry**|Yixin Tan et.al.|[2610.10616](http://arxiv.org/abs/2610.10616)|null|
 |**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
 |**2026-10-07**|**Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD**|Murat Bilgehan Ertan et.al.|[2610.09651](http://arxiv.org/abs/2610.09651)|null|
 |**2026-10-02**|**Auditing the Privacy of Synthetic Gene Expression Data: A Unified Weighted-Distance Framework for No-Box Membership Inference**|Owen Tucker et.al.|[2610.04060](http://arxiv.org/abs/2610.04060)|null|
@@ -105,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
 |**2026-10-03**|**Guess My Weight: Profiled Side-Channel Recovery of Floating-Point Neural-Network Weights**|Timon Lumír Fillo et.al.|[2610.04436](http://arxiv.org/abs/2610.04436)|null|
 |**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](http://arxiv.org/abs/2610.01736)|null|
 |**2026-09-30**|**SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs**|Fahao Chen et.al.|[2609.38830](http://arxiv.org/abs/2609.38830)|null|
