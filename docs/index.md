@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -107,6 +107,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
+|**2026-10-11**|**Penetrating the Reality Wall: Long-Range and Through-Wall AR/VR Privacy Eavesdropping via Wireless Power Side Channel**|Tao Ni et.al.|[2610.15865](http://arxiv.org/abs/2610.15865)|null|
+|**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|
+|**2026-10-09**|**Physical Side-Channel Attacks on Edge LLMs: Extracting Output Tokens and User Prompts**|Najeh Alhalawani et.al.|[2610.14215](http://arxiv.org/abs/2610.14215)|null|
 |**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
 |**2026-10-03**|**Guess My Weight: Profiled Side-Channel Recovery of Floating-Point Neural-Network Weights**|Timon Lumír Fillo et.al.|[2610.04436](http://arxiv.org/abs/2610.04436)|null|
 |**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](http://arxiv.org/abs/2610.01736)|null|

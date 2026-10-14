@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -107,12 +107,16 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
+|**2026-10-11**|**Penetrating the Reality Wall: Long-Range and Through-Wall AR/VR Privacy Eavesdropping via Wireless Power Side Channel**|Tao Ni et.al.|[2610.15865](http://arxiv.org/abs/2610.15865)|null|
+|**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|
+|**2026-10-09**|**Physical Side-Channel Attacks on Edge LLMs: Extracting Output Tokens and User Prompts**|Najeh Alhalawani et.al.|[2610.14215](http://arxiv.org/abs/2610.14215)|null|
 |**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
 |**2026-10-03**|**Guess My Weight: Profiled Side-Channel Recovery of Floating-Point Neural-Network Weights**|Timon Lumír Fillo et.al.|[2610.04436](http://arxiv.org/abs/2610.04436)|null|
 |**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](http://arxiv.org/abs/2610.01736)|null|
@@ -204,7 +208,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
