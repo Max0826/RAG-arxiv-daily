@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**COMPASS: Membership Inference Attack Against Vision Large Language Models via Adaptive Noise Calibration**|Damien Lo et.al.|[2610.17332](http://arxiv.org/abs/2610.17332)|null|
+|**2026-10-12**|**Toward Realistic Privacy Risk in FL-Enabled OT Intrusion Detection Systems**|Assunta Imperatrice et.al.|[2610.16872](http://arxiv.org/abs/2610.16872)|null|
 |**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
 |**2026-10-07**|**When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry**|Yixin Tan et.al.|[2610.10616](http://arxiv.org/abs/2610.10616)|null|
 |**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
@@ -107,6 +109,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
+|**2026-10-14**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
 |**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
 |**2026-10-11**|**Penetrating the Reality Wall: Long-Range and Through-Wall AR/VR Privacy Eavesdropping via Wireless Power Side Channel**|Tao Ni et.al.|[2610.15865](http://arxiv.org/abs/2610.15865)|null|
 |**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|

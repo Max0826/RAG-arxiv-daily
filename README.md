@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**COMPASS: Membership Inference Attack Against Vision Large Language Models via Adaptive Noise Calibration**|Damien Lo et.al.|[2610.17332](http://arxiv.org/abs/2610.17332)|null|
+|**2026-10-12**|**Toward Realistic Privacy Risk in FL-Enabled OT Intrusion Detection Systems**|Assunta Imperatrice et.al.|[2610.16872](http://arxiv.org/abs/2610.16872)|null|
 |**2026-10-07**|**Power Side-Channel Membership Inference Attack on Embedded Machine Learning**|Sahan Sanjaya et.al.|[2610.10909](http://arxiv.org/abs/2610.10909)|null|
 |**2026-10-07**|**When Routing Reveals Membership: Privacy Leakage from MoE Router Telemetry**|Yixin Tan et.al.|[2610.10616](http://arxiv.org/abs/2610.10616)|null|
 |**2026-10-07**|**Efficient Provably Private Classification with a Tabular Foundation Model**|Talal Alrawajfeh et.al.|[2610.10068](http://arxiv.org/abs/2610.10068)|null|
@@ -107,12 +109,14 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
+|**2026-10-14**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
 |**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
 |**2026-10-11**|**Penetrating the Reality Wall: Long-Range and Through-Wall AR/VR Privacy Eavesdropping via Wireless Power Side Channel**|Tao Ni et.al.|[2610.15865](http://arxiv.org/abs/2610.15865)|null|
 |**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|
@@ -208,7 +212,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
