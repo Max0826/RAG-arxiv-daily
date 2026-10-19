@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -109,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Foundations of Hardware-Software Leakage Contracts**|Jan Reineke et.al.|[2610.20754](http://arxiv.org/abs/2610.20754)|null|
 |**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
 |**2026-10-14**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
 |**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
