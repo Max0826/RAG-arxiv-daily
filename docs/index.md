@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation**|Qi Li et.al.|[2610.31616](http://arxiv.org/abs/2610.31616)|null|
+|**2026-10-21**|**Membership Inference Attack on Private Evolution**|Daniil Filienko et.al.|[2610.30514](http://arxiv.org/abs/2610.30514)|null|
+|**2026-10-21**|**Automated screening of privacy risks in medical AI**|Konstantinos Vrettos et.al.|[2610.30229](http://arxiv.org/abs/2610.30229)|null|
 |**2026-10-19**|**Reliable Estimation of Differential Privacy under Selection Bias**|Valentin Dorseuil et.al.|[2610.27021](http://arxiv.org/abs/2610.27021)|null|
 |**2026-10-12**|**COMPASS: Membership Inference Attack Against Vision Large Language Models via Adaptive Noise Calibration**|Damien Lo et.al.|[2610.17332](http://arxiv.org/abs/2610.17332)|null|
 |**2026-10-12**|**Toward Realistic Privacy Risk in FL-Enabled OT Intrusion Detection Systems**|Assunta Imperatrice et.al.|[2610.16872](http://arxiv.org/abs/2610.16872)|null|
