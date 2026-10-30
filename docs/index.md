@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -115,6 +115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-10-21**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
 |**2026-10-14**|**Foundations of Hardware-Software Leakage Contracts**|Jan Reineke et.al.|[2610.20754](http://arxiv.org/abs/2610.20754)|null|
 |**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
@@ -131,7 +132,6 @@ layout: default
 |**2026-09-28**|**OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates**|Haiyue Dong et.al.|[2609.35205](http://arxiv.org/abs/2609.35205)|null|
 |**2026-09-26**|**Coordinated Electromagnetic Side-Channel Attacks for Voter--Ballot Linking: A Case Study of the Brazilian E-Polling System**|Leandro Hyeda et.al.|[2609.32988](http://arxiv.org/abs/2609.32988)|null|
 |**2026-09-24**|**Fast Frame Rate Estimation in Electromagnetic Side-Channel Attacks on Public Systems**|Alyson Isaluski et.al.|[2609.28916](http://arxiv.org/abs/2609.28916)|null|
-|**2026-09-23**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-09-23**|**Do Electromagnetic Side-Channel Attacks Threaten Electronic Polling Stations? Scenarios and Recommendations**|Lucas Brito et.al.|[2609.28209](http://arxiv.org/abs/2609.28209)|null|
 |**2026-09-21**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-20**|**POZZER: A Power Side Channel-guided Fuzzer for Black-Box Embedded Systems**|Pouya Narimani et.al.|[2609.23583](http://arxiv.org/abs/2609.23583)|null|

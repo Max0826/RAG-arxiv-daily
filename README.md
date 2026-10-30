@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -115,12 +115,13 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-28**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-10-21**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
 |**2026-10-14**|**Foundations of Hardware-Software Leakage Contracts**|Jan Reineke et.al.|[2610.20754](http://arxiv.org/abs/2610.20754)|null|
 |**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
@@ -137,7 +138,6 @@
 |**2026-09-28**|**OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates**|Haiyue Dong et.al.|[2609.35205](http://arxiv.org/abs/2609.35205)|null|
 |**2026-09-26**|**Coordinated Electromagnetic Side-Channel Attacks for Voter--Ballot Linking: A Case Study of the Brazilian E-Polling System**|Leandro Hyeda et.al.|[2609.32988](http://arxiv.org/abs/2609.32988)|null|
 |**2026-09-24**|**Fast Frame Rate Estimation in Electromagnetic Side-Channel Attacks on Public Systems**|Alyson Isaluski et.al.|[2609.28916](http://arxiv.org/abs/2609.28916)|null|
-|**2026-09-23**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-09-23**|**Do Electromagnetic Side-Channel Attacks Threaten Electronic Polling Stations? Scenarios and Recommendations**|Lucas Brito et.al.|[2609.28209](http://arxiv.org/abs/2609.28209)|null|
 |**2026-09-21**|**Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack**|Nitin Choudhury et.al.|[2606.21210](http://arxiv.org/abs/2606.21210)|null|
 |**2026-09-20**|**POZZER: A Power Side Channel-guided Fuzzer for Black-Box Embedded Systems**|Pouya Narimani et.al.|[2609.23583](http://arxiv.org/abs/2609.23583)|null|
@@ -219,7 +219,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
