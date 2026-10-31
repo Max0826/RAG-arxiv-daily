@@ -1,4 +1,4 @@
-## Updated on 2026.10.30
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Difficulty Calibration Across Time for Membership Inference in Diffusion Models**|Michael Joseph et.al.|[2610.40616](http://arxiv.org/abs/2610.40616)|null|
 |**2026-10-27**|**Revisiting Privacy Risks in Quantized Deep Neural Networks**|Jie Fu et.al.|[2610.37488](http://arxiv.org/abs/2610.37488)|null|
 |**2026-10-27**|**A Simple Presentation of Robust Membership Inference Attacks**|Renaud Gaucher et.al.|[2610.36458](http://arxiv.org/abs/2610.36458)|null|
 |**2026-10-22**|**OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation**|Qi Li et.al.|[2610.31616](http://arxiv.org/abs/2610.31616)|null|
@@ -115,7 +116,7 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 ## Side-Channel Attack
 
@@ -219,7 +220,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
