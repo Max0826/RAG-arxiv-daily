@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2**|Ali Banaei et.al.|[2610.41732](http://arxiv.org/abs/2610.41732)|null|
+|**2026-10-29**|**Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs**|Fei Wang et.al.|[2610.41039](http://arxiv.org/abs/2610.41039)|null|
 |**2026-10-29**|**Difficulty Calibration Across Time for Membership Inference in Diffusion Models**|Michael Joseph et.al.|[2610.40616](http://arxiv.org/abs/2610.40616)|null|
 |**2026-10-27**|**Revisiting Privacy Risks in Quantized Deep Neural Networks**|Jie Fu et.al.|[2610.37488](http://arxiv.org/abs/2610.37488)|null|
 |**2026-10-27**|**A Simple Presentation of Robust Membership Inference Attacks**|Renaud Gaucher et.al.|[2610.36458](http://arxiv.org/abs/2610.36458)|null|
