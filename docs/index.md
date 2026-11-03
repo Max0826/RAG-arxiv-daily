@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -118,6 +118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-31**|**Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach**|Carl Benda et.al.|[2611.01144](http://arxiv.org/abs/2611.01144)|null|
+|**2026-10-30**|**Randomized Caches in Hardware: Challenges and Trade-offs**|Xinrui Wang et.al.|[2611.00282](http://arxiv.org/abs/2611.00282)|null|
 |**2026-10-28**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
 |**2026-10-21**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
 |**2026-10-14**|**Foundations of Hardware-Software Leakage Contracts**|Jan Reineke et.al.|[2610.20754](http://arxiv.org/abs/2610.20754)|null|
