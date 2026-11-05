@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator**|Calister Nnona et.al.|[2611.06342](http://arxiv.org/abs/2611.06342)|null|
+|**2026-11-04**|**Timing is Everything: Inferring Temporal Membership in Continually Updated Models**|Jie Fu et.al.|[2611.05781](http://arxiv.org/abs/2611.05781)|null|
+|**2026-11-03**|**Exploring the Privacy--Size Tradeoff for Differentially Private Self-Attentive Variational Autoencoders**|Rohit Sadavarte et.al.|[2611.05582](http://arxiv.org/abs/2611.05582)|null|
 |**2026-10-30**|**From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2**|Ali Banaei et.al.|[2610.41732](http://arxiv.org/abs/2610.41732)|null|
 |**2026-10-29**|**Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs**|Fei Wang et.al.|[2610.41039](http://arxiv.org/abs/2610.41039)|null|
 |**2026-10-29**|**Difficulty Calibration Across Time for Membership Inference in Diffusion Models**|Michael Joseph et.al.|[2610.40616](http://arxiv.org/abs/2610.40616)|null|
@@ -118,12 +121,14 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
+|**2026-11-03**|**Leakage-Resilient Computation via Matrix Refreshing**|Stefan Dziembowski et.al.|[2611.04876](http://arxiv.org/abs/2611.04876)|null|
 |**2026-10-31**|**Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach**|Carl Benda et.al.|[2611.01144](http://arxiv.org/abs/2611.01144)|null|
 |**2026-10-30**|**Randomized Caches in Hardware: Challenges and Trade-offs**|Xinrui Wang et.al.|[2611.00282](http://arxiv.org/abs/2611.00282)|null|
 |**2026-10-28**|**Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice**|Carsten Schubert et.al.|[2609.28226](http://arxiv.org/abs/2609.28226)|null|
@@ -151,7 +156,6 @@
 |**2026-09-15**|**From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges**|Swapnil Vishwas Baviskar et.al.|[2609.16675](http://arxiv.org/abs/2609.16675)|null|
 |**2026-09-10**|**Chypothermia: Clock Freezing for Static Side-channel Attacks**|Fatemeh Khojasteh Dana et.al.|[2609.11442](http://arxiv.org/abs/2609.11442)|null|
 |**2026-09-09**|**HermiCache: Enclave-Aware Cache Replacement for Trusted Execution Environments**|Oussama Elmnaouri et.al.|[2609.10634](http://arxiv.org/abs/2609.10634)|null|
-|**2026-09-09**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
 |**2026-09-06**|**Characterizing Contention-Induced Reliability Collapse in KV-Cache Timing Side Channels for Multi-Tenant LLM Serving**|Rana Abu Bakar et.al.|[2609.06853](http://arxiv.org/abs/2609.06853)|null|
 |**2026-09-06**|**Efficient Hardware Information-Flow Tracking for Pre-Silicon Security Testing**|Yu-Wei Fan et.al.|[2609.06791](http://arxiv.org/abs/2609.06791)|null|
 |**2026-09-06**|**Watch and Crack: Password Inference from Smart-Glasses Video**|Yoav Orenbach et.al.|[2609.06539](http://arxiv.org/abs/2609.06539)|null|
@@ -224,7 +228,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
