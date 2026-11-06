@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -121,6 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
 |**2026-11-04**|**Practice Makes (Im)Perfect: A Look Back at Benchmarking Practices for Microarchitectural Side-Channel Attacks**|Iliana Fayolle et.al.|[2609.03893](http://arxiv.org/abs/2609.03893)|null|
 |**2026-11-03**|**Leakage-Resilient Computation via Matrix Refreshing**|Stefan Dziembowski et.al.|[2611.04876](http://arxiv.org/abs/2611.04876)|null|
 |**2026-10-31**|**Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach**|Carl Benda et.al.|[2611.01144](http://arxiv.org/abs/2611.01144)|null|
@@ -129,7 +130,6 @@ layout: default
 |**2026-10-21**|**ANTMAN: An Efficient and Interpretable RTL-Level Run-Time Detection Framework for Stealthy Branch Predictor Attacks on BOOM**|Muhammad Hassan et.al.|[2608.09498](http://arxiv.org/abs/2608.09498)|null|
 |**2026-10-14**|**Foundations of Hardware-Software Leakage Contracts**|Jan Reineke et.al.|[2610.20754](http://arxiv.org/abs/2610.20754)|null|
 |**2026-10-14**|**Quantum-Aware Key Rank for Side-Channel Attacks evaluation**|Yevgen Kotukh et.al.|[2610.20537](http://arxiv.org/abs/2610.20537)|null|
-|**2026-10-14**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
 |**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
 |**2026-10-11**|**Penetrating the Reality Wall: Long-Range and Through-Wall AR/VR Privacy Eavesdropping via Wireless Power Side Channel**|Tao Ni et.al.|[2610.15865](http://arxiv.org/abs/2610.15865)|null|
 |**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|
