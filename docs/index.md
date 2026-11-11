@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -121,6 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Domain-Invariant and Language-Model-Assisted Acoustic Side-Channel Attacks on Keyboards**|Bikrant Bikram Pratap Maurya et.al.|[2611.13922](http://arxiv.org/abs/2611.13922)|null|
 |**2026-11-08**|**EVAX: Towards a Practical, Pro-active & Adaptive Architecture for High Performance & Security**|Samira Mirbagher Ajorpaz et.al.|[2611.11498](http://arxiv.org/abs/2611.11498)|null|
 |**2026-11-07**|**Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation**|Xiaobei Yan et.al.|[2611.10756](http://arxiv.org/abs/2611.10756)|null|
 |**2026-11-05**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
