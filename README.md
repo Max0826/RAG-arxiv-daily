@@ -1,4 +1,4 @@
-## Updated on 2026.11.15
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA**|Maryam Ghasemian et.al.|[2611.18925](http://arxiv.org/abs/2611.18925)|null|
+|**2026-11-13**|**Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information**|Maryam Ghasemian et.al.|[2611.18909](http://arxiv.org/abs/2611.18909)|null|
 |**2026-11-04**|**CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator**|Calister Nnona et.al.|[2611.06342](http://arxiv.org/abs/2611.06342)|null|
 |**2026-11-04**|**Timing is Everything: Inferring Temporal Membership in Continually Updated Models**|Jie Fu et.al.|[2611.05781](http://arxiv.org/abs/2611.05781)|null|
 |**2026-11-03**|**Exploring the Privacy--Size Tradeoff for Differentially Private Self-Attentive Variational Autoencoders**|Rohit Sadavarte et.al.|[2611.05582](http://arxiv.org/abs/2611.05582)|null|
@@ -121,12 +123,13 @@
 |**2026-04-01**|**SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models**|Kıvanç Kuzey Dikici et.al.|[2604.01147](http://arxiv.org/abs/2604.01147)|null|
 |**2026-04-01**|**AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration**|Ruhao Liu et.al.|[2604.01014](http://arxiv.org/abs/2604.01014)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 ## Side-Channel Attack
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Inferring Sensitive Events in Multi-Mode Cyber-Physical Systems via Scheduling Side Channels**|Yifan Cai et.al.|[2611.17761](http://arxiv.org/abs/2611.17761)|null|
 |**2026-11-10**|**MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters**|Moritz Kirschte et.al.|[2611.14317](http://arxiv.org/abs/2611.14317)|null|
 |**2026-11-10**|**Domain-Invariant and Language-Model-Assisted Acoustic Side-Channel Attacks on Keyboards**|Bikrant Bikram Pratap Maurya et.al.|[2611.13922](http://arxiv.org/abs/2611.13922)|null|
 |**2026-11-08**|**EVAX: Towards a Practical, Pro-active & Adaptive Architecture for High Performance & Security**|Samira Mirbagher Ajorpaz et.al.|[2611.11498](http://arxiv.org/abs/2611.11498)|null|
@@ -232,7 +235,7 @@
 |**2025-12-19**|**PermuteV: A Performant Side-channel-Resistant RISC-V Core Securing Edge AI Inference**|Nuntipat Narkthong et.al.|[2512.18132](http://arxiv.org/abs/2512.18132)|null|
 |**2025-12-11**|**Digital Coherent-State QRNG Using System-Jitter Entropy via Random Permutation**|Randy Kuang et.al.|[2512.11107](http://arxiv.org/abs/2512.11107)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
