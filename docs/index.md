@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
 |**2026-11-13**|**Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA**|Maryam Ghasemian et.al.|[2611.18925](http://arxiv.org/abs/2611.18925)|null|
 |**2026-11-13**|**Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information**|Maryam Ghasemian et.al.|[2611.18909](http://arxiv.org/abs/2611.18909)|null|
 |**2026-11-04**|**CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator**|Calister Nnona et.al.|[2611.06342](http://arxiv.org/abs/2611.06342)|null|
@@ -123,6 +124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
 |**2026-11-13**|**Inferring Sensitive Events in Multi-Mode Cyber-Physical Systems via Scheduling Side Channels**|Yifan Cai et.al.|[2611.17761](http://arxiv.org/abs/2611.17761)|null|
 |**2026-11-10**|**MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters**|Moritz Kirschte et.al.|[2611.14317](http://arxiv.org/abs/2611.14317)|null|
 |**2026-11-10**|**Domain-Invariant and Language-Model-Assisted Acoustic Side-Channel Attacks on Keyboards**|Bikrant Bikram Pratap Maurya et.al.|[2611.13922](http://arxiv.org/abs/2611.13922)|null|
@@ -145,7 +147,6 @@ layout: default
 |**2026-10-03**|**Guess My Weight: Profiled Side-Channel Recovery of Floating-Point Neural-Network Weights**|Timon Lumír Fillo et.al.|[2610.04436](http://arxiv.org/abs/2610.04436)|null|
 |**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](http://arxiv.org/abs/2610.01736)|null|
 |**2026-09-30**|**SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs**|Fahao Chen et.al.|[2609.38830](http://arxiv.org/abs/2609.38830)|null|
-|**2026-09-29**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
 |**2026-09-28**|**OT-PCA: New Key-Recovery Plaintext-Checking Oracle Based Side-Channel Attacks on HQC with Offline Templates**|Haiyue Dong et.al.|[2609.35205](http://arxiv.org/abs/2609.35205)|null|
 |**2026-09-26**|**Coordinated Electromagnetic Side-Channel Attacks for Voter--Ballot Linking: A Case Study of the Brazilian E-Polling System**|Leandro Hyeda et.al.|[2609.32988](http://arxiv.org/abs/2609.32988)|null|
 |**2026-09-24**|**Fast Frame Rate Estimation in Electromagnetic Side-Channel Attacks on Public Systems**|Alyson Isaluski et.al.|[2609.28916](http://arxiv.org/abs/2609.28916)|null|
