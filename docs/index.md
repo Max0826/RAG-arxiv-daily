@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -124,6 +124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**ToolPulse: Side-Channel Eavesdropping on Tool-Using LLM Agents**|Zihao Dan et.al.|[2611.25470](http://arxiv.org/abs/2611.25470)|null|
 |**2026-11-16**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
 |**2026-11-13**|**Inferring Sensitive Events in Multi-Mode Cyber-Physical Systems via Scheduling Side Channels**|Yifan Cai et.al.|[2611.17761](http://arxiv.org/abs/2611.17761)|null|
 |**2026-11-10**|**MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters**|Moritz Kirschte et.al.|[2611.14317](http://arxiv.org/abs/2611.14317)|null|
