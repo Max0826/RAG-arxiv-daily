@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Understanding Membership Inference Attacks on EEG Models**|Mehrdad Khodapanahandeh et.al.|[2611.28354](http://arxiv.org/abs/2611.28354)|null|
 |**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
 |**2026-11-13**|**Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA**|Maryam Ghasemian et.al.|[2611.18925](http://arxiv.org/abs/2611.18925)|null|
 |**2026-11-13**|**Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information**|Maryam Ghasemian et.al.|[2611.18909](http://arxiv.org/abs/2611.18909)|null|
@@ -124,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Isonomy: Isolating Every Request from Timing Side Channels at Nearly Full-Sharing Throughput in Multi-Instance LLM Prefill**|Bowen Sun et.al.|[2611.27596](http://arxiv.org/abs/2611.27596)|null|
 |**2026-11-19**|**ToolPulse: Side-Channel Eavesdropping on Tool-Using LLM Agents**|Zihao Dan et.al.|[2611.25470](http://arxiv.org/abs/2611.25470)|null|
 |**2026-11-16**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
 |**2026-11-13**|**Inferring Sensitive Events in Multi-Mode Cyber-Physical Systems via Scheduling Side Channels**|Yifan Cai et.al.|[2611.17761](http://arxiv.org/abs/2611.17761)|null|
