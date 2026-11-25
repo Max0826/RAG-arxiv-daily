@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
@@ -125,6 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Power Side-Channel Evaluation using Multi-FPGA Systems**|Yaswanth Tavva et.al.|[2611.32652](http://arxiv.org/abs/2611.32652)|null|
 |**2026-11-20**|**Isonomy: Isolating Every Request from Timing Side Channels at Nearly Full-Sharing Throughput in Multi-Instance LLM Prefill**|Bowen Sun et.al.|[2611.27596](http://arxiv.org/abs/2611.27596)|null|
 |**2026-11-19**|**ToolPulse: Side-Channel Eavesdropping on Tool-Using LLM Agents**|Zihao Dan et.al.|[2611.25470](http://arxiv.org/abs/2611.25470)|null|
 |**2026-11-16**|**GAZEleak: Passcode Inference Against Eye-tracking XR Devices Through External Observation**|Hwanjo Heo et.al.|[2609.35040](http://arxiv.org/abs/2609.35040)|null|
