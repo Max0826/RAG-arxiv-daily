@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Membership Inference Attack
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics**|Yaser Kord et.al.|[2611.34258](http://arxiv.org/abs/2611.34258)|null|
 |**2026-11-20**|**Understanding Membership Inference Attacks on EEG Models**|Mehrdad Khodapanahandeh et.al.|[2611.28354](http://arxiv.org/abs/2611.28354)|null|
 |**2026-11-16**|**AudioTrace: File-Level Membership Detection for Audio Large Language Models**|Guangzhi Sun et.al.|[2611.21088](http://arxiv.org/abs/2611.21088)|null|
 |**2026-11-13**|**Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA**|Maryam Ghasemian et.al.|[2611.18925](http://arxiv.org/abs/2611.18925)|null|
